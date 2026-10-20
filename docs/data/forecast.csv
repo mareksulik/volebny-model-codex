@@ -1,0 +1,149 @@
+race_id,race,category,candidate_id,candidate,active,estimate_pct,low80_pct,high80_pct,win_probability,fundamental_pct,fundamental_win_probability
+city-bratislava,Bratislava,city,city-bratislava-1,Ľubomír Geci,True,4.891828260535346,1.655080869373392,9.346433105940214,0.0,13.015551920203109,0.06218
+city-bratislava,Bratislava,city,city-bratislava-2,Miroslav Heredoš,False,0,0,0,0,0,0
+city-bratislava,Bratislava,city,city-bratislava-3,Jozef Ráž,True,35.544590681983664,28.36468474268264,43.063445490763634,0.05346,25.400163074150328,0.2011
+city-bratislava,Bratislava,city,city-bratislava-4,Zuzana Šubová,True,5.927006654602865,2.4394934497530825,10.480300905001322,0.0,13.015551920203109,0.06096
+city-bratislava,Bratislava,city,city-bratislava-5,Matúš Vallo,True,53.636574402878125,45.70403718841895,61.64353856908588,0.94654,48.56873308544345,0.67576
+city-bratislava,Bratislava,city,city-bratislava-6,Martin Winkler,False,0,0,0,0,0,0
+borough-bratislava-stare-mesto,Bratislava - Staré Mesto,borough,borough-bratislava-stare-mesto-1,Zuzana Aufrichtová,True,18.876190603830583,2.947964689611903,39.75102926052411,0.1286,18.876190603830583,0.13298
+borough-bratislava-stare-mesto,Bratislava - Staré Mesto,borough,borough-bratislava-stare-mesto-2,Petra Hitková,True,24.239003300021636,5.502255243178498,47.46105628577277,0.20882,24.239003300021636,0.20884
+borough-bratislava-stare-mesto,Bratislava - Staré Mesto,borough,borough-bratislava-stare-mesto-3,Matej Vagač,True,41.86606295369434,17.733388283385626,67.57163873074332,0.57278,41.866062953694346,0.5702
+borough-bratislava-stare-mesto,Bratislava - Staré Mesto,borough,borough-bratislava-stare-mesto-4,Miroslav Vetrík,True,15.018743142453438,1.5647584974423046,34.47602582202327,0.0898,15.018743142453438,0.08798
+borough-bratislava-podunajske-biskupice,Bratislava - Podunajské Biskupice,borough,borough-bratislava-podunajske-biskupice-1,Martina Frőhlich Činovská,True,23.310971304905227,5.031110161430531,46.02355811371438,0.12734,23.310971304905227,0.12418
+borough-bratislava-podunajske-biskupice,Bratislava - Podunajské Biskupice,borough,borough-bratislava-podunajske-biskupice-2,Roman Lamoš,True,58.36918952247152,32.93214970991793,82.56514045037098,0.78968,58.36918952247152,0.79294
+borough-bratislava-podunajske-biskupice,Bratislava - Podunajské Biskupice,borough,borough-bratislava-podunajske-biskupice-3,Ladislav Méry,True,18.319839172623258,2.7499832954855936,39.287856074232835,0.08298,18.319839172623258,0.08288
+borough-bratislava-ruzinov,Bratislava - Ružinov,borough,borough-bratislava-ruzinov-1,Martin Chren,True,52.29782752534186,26.86315513041697,77.653893995162,0.68464,52.297827525341845,0.68324
+borough-bratislava-ruzinov,Bratislava - Ružinov,borough,borough-bratislava-ruzinov-2,Peter Strapák,True,30.774550973436334,9.395964583650915,55.41707348957291,0.2377,30.774550973436327,0.23918
+borough-bratislava-ruzinov,Bratislava - Ružinov,borough,borough-bratislava-ruzinov-3,Ivor Švihran,True,16.92762150122182,2.1757873402601113,37.140428695603084,0.07766,16.927621501221818,0.07758
+borough-bratislava-vrakuna,Bratislava - Vrakuňa,borough,borough-bratislava-vrakuna-1,Dušan Burdy,True,13.126674206727735,0.9689464415883253,31.21586446551518,0.03006,13.126674206727735,0.02972
+borough-bratislava-vrakuna,Bratislava - Vrakuňa,borough,borough-bratislava-vrakuna-2,Martin Kuruc,True,73.74665158654453,50.00462691560785,93.27118899696839,0.93974,73.74665158654453,0.94132
+borough-bratislava-vrakuna,Bratislava - Vrakuňa,borough,borough-bratislava-vrakuna-3,Katarína Lukáčová,True,13.126674206727735,0.987028722066561,31.43896240022248,0.0302,13.126674206727735,0.02896
+borough-bratislava-nove-mesto,Bratislava - Nové Mesto,borough,borough-bratislava-nove-mesto-1,Tomáš Čajda,False,0,0,0,0,0,0
+borough-bratislava-nove-mesto,Bratislava - Nové Mesto,borough,borough-bratislava-nove-mesto-2,Matúš Čupka,True,62.22708311911165,36.536317293740154,85.40011384872231,0.8384,62.22708311911165,0.8385
+borough-bratislava-nove-mesto,Bratislava - Nové Mesto,borough,borough-bratislava-nove-mesto-3,Rudolf Kusý,True,20.252321185052484,3.606515001581135,42.053899994655175,0.09002,20.252321185052487,0.08988
+borough-bratislava-nove-mesto,Bratislava - Nové Mesto,borough,borough-bratislava-nove-mesto-4,Mária Martaus,True,17.520595695835873,2.490823448649783,38.21777591576933,0.07158,17.520595695835873,0.07162
+borough-bratislava-raca,Bratislava - Rača,borough,borough-bratislava-raca-1,Michal Drotován,True,63.83531638871492,38.24883083004124,86.78736065806338,0.76664,63.83531638871492,0.76894
+borough-bratislava-raca,Bratislava - Rača,borough,borough-bratislava-raca-2,Ján Polakovič,True,36.16468361128508,13.212639341936622,61.75116916995876,0.23336,36.16468361128508,0.23106
+borough-bratislava-vajnory,Bratislava - Vajnory,borough,borough-bratislava-vajnory-1,Juraj Ondruška,True,22.711232101837084,4.618758063640244,45.24071885075434,0.1218,22.711232101837084,0.12342
+borough-bratislava-vajnory,Bratislava - Vajnory,borough,borough-bratislava-vajnory-2,Michal Vlček,True,58.50652227573454,32.842469032230845,82.69679207811988,0.79,58.50652227573454,0.79002
+borough-bratislava-vajnory,Bratislava - Vajnory,borough,borough-bratislava-vajnory-3,Juraj Zeman,True,18.782245622428373,2.9415464759243486,40.33806638647942,0.0882,18.782245622428373,0.08656
+borough-bratislava-devin,Bratislava - Devín,borough,borough-bratislava-devin-1,Martin Galát,True,42.66332674715991,18.383465850911286,68.33800645642559,0.5136,42.66332674715991,0.51194
+borough-bratislava-devin,Bratislava - Devín,borough,borough-bratislava-devin-2,Pavol Maruščák,True,23.638461749698394,5.197451254956273,46.6502930977105,0.16452,23.638461749698394,0.1647
+borough-bratislava-devin,Bratislava - Devín,borough,borough-bratislava-devin-3,Igor Prieložný,True,33.69821150314171,11.439038660885572,58.72287256287003,0.32188,33.69821150314171,0.32336
+borough-bratislava-devinska-nova-ves,Bratislava - Devínska Nová Ves,borough,borough-bratislava-devinska-nova-ves-1,Dárius Krajčír,True,63.681549452831135,38.15923424093687,86.69027846032485,0.85466,63.681549452831135,0.85684
+borough-bratislava-devinska-nova-ves,Bratislava - Devínska Nová Ves,borough,borough-bratislava-devinska-nova-ves-2,Ľuboš Krajčír,True,19.472494743895737,3.2931230912417164,41.19122032863029,0.08308,19.472494743895737,0.07918
+borough-bratislava-devinska-nova-ves,Bratislava - Devínska Nová Ves,borough,borough-bratislava-devinska-nova-ves-3,Denis Ružovič,True,16.84595580327313,2.1595205332289904,37.03840385398176,0.06226,16.84595580327313,0.06398
+borough-bratislava-dubravka,Bratislava - Dúbravka,borough,borough-bratislava-dubravka-1,Martin Zaťovič,True,100.0,100.0,100.0,1.0,100.0,1.0
+borough-bratislava-karlova-ves,Bratislava - Karlova Ves,borough,borough-bratislava-karlova-ves-1,Martin Vician,True,36.692990205597745,13.487198627592669,62.261397027041426,0.23976,36.692990205597745,0.23732
+borough-bratislava-karlova-ves,Bratislava - Karlova Ves,borough,borough-bratislava-karlova-ves-2,Branislav Záhradník,True,63.307009794402255,37.73860297295855,86.51280137240732,0.76024,63.30700979440225,0.76268
+borough-bratislava-lamac,Bratislava - Lamač,borough,borough-bratislava-lamac-1,Igor Polakovič,True,69.52522775354373,45.10700151287358,90.73706317049512,0.8542,69.52522775354373,0.84956
+borough-bratislava-lamac,Bratislava - Lamač,borough,borough-bratislava-lamac-2,Mária Šimončičová,True,30.474772246456265,9.262936829504866,54.89299848712643,0.1458,30.474772246456265,0.15044
+borough-bratislava-zahorska-bystrica,Bratislava - Záhorská Bystrica,borough,borough-bratislava-zahorska-bystrica-1,Jozef Krúpa,True,100.0,100.0,100.0,1.0,100.0,1.0
+borough-bratislava-cunovo,Bratislava - Čunovo,borough,borough-bratislava-cunovo-1,Ivan Boška,True,14.313903887873366,1.3278339669798513,33.13574870322846,0.08984,14.313903887873366,0.09084
+borough-bratislava-cunovo,Bratislava - Čunovo,borough,borough-bratislava-cunovo-2,Gabriela Ferenčáková,True,42.74438444850654,18.574940248241365,68.31670302404683,0.63986,42.74438444850653,0.63512
+borough-bratislava-cunovo,Bratislava - Čunovo,borough,borough-bratislava-cunovo-3,Marek Kausich,True,14.313903887873366,1.2857164258903984,33.0344508620242,0.0881,14.313903887873366,0.09128
+borough-bratislava-cunovo,Bratislava - Čunovo,borough,borough-bratislava-cunovo-4,Marián Krist,True,14.313903887873366,1.299987808275217,33.41346307763187,0.0921,14.313903887873366,0.09098
+borough-bratislava-cunovo,Bratislava - Čunovo,borough,borough-bratislava-cunovo-5,Michal Šimunek,True,14.313903887873366,1.2860195477067118,33.19077976743525,0.0901,14.313903887873366,0.09178
+borough-bratislava-jarovce,Bratislava - Jarovce,borough,borough-bratislava-jarovce-1,Jozef Uhler,True,100.0,100.0,100.0,1.0,100.0,1.0
+borough-bratislava-petrzalka,Bratislava - Petržalka,borough,borough-bratislava-petrzalka-1,Ján Hrčka,True,47.928457665542076,22.860946109416183,73.48427316722422,0.62374,47.928457665542076,0.62038
+borough-bratislava-petrzalka,Bratislava - Petržalka,borough,borough-bratislava-petrzalka-2,Daniel Klimovský,True,26.622182970811874,6.819118779054396,50.06715630055004,0.19262,26.622182970811874,0.1985
+borough-bratislava-petrzalka,Bratislava - Petržalka,borough,borough-bratislava-petrzalka-3,Juraj Mravec,True,25.449359363646046,6.2352435441079805,48.94198675343476,0.18364,25.449359363646046,0.18112
+borough-bratislava-rusovce,Bratislava - Rusovce,borough,borough-bratislava-rusovce-1,Radovan Jenčík,True,100.0,100.0,100.0,1.0,100.0,1.0
+city-trnava,Trnava,city,city-trnava-1,Branislav Baroš,True,21.51122921648741,4.202770010489421,43.91924104905397,0.2183,21.511229216487408,0.21428
+city-trnava,Trnava,city,city-trnava-2,Andrea Čajková,True,16.18021151166569,1.8907076043628115,36.23439440921901,0.13492,16.18021151166569,0.13478
+city-trnava,Trnava,city,city-trnava-3,Ľubica Horváthová,False,0,0,0,0,0,0
+city-trnava,Trnava,city,city-trnava-4,Eva Nemčovská,True,29.202477634533857,8.407100523209404,53.44058241493751,0.36782,29.202477634533857,0.37152
+city-trnava,Trnava,city,city-trnava-5,Jozef Obselka,True,16.18021151166569,1.8819194743793524,36.231614446374486,0.13562,16.18021151166569,0.1337
+city-trnava,Trnava,city,city-trnava-6,Martin Pullmann,True,16.92587012564736,2.168821881568926,37.061560021762915,0.14334,16.92587012564736,0.14572
+city-trencin,Trenčín,city,city-trencin-1,Danica Birošová,True,19.51017532823676,3.221723767244718,41.071357023110416,0.15254,19.51017532823676,0.15238
+city-trencin,Trenčín,city,city-trencin-2,Michal Bratranec,True,19.51017532823676,3.2084844335749896,40.8312318157863,0.15148,19.51017532823676,0.15454
+city-trencin,Trenčín,city,city-trencin-3,Ján Forgáč,True,35.21248521738362,12.656895631037273,60.451989474002744,0.44584,35.21248521738362,0.44258
+city-trencin,Trenčín,city,city-trencin-4,Miloš Mičega,True,25.767164126142855,6.370211982946902,49.405178098960945,0.25014,25.767164126142855,0.2505
+city-nitra,Nitra,city,city-nitra-1,Marek Hattas,True,42.25640252220009,32.737067635404706,51.73353387275879,0.65092,43.9556623161394,0.61066
+city-nitra,Nitra,city,city-nitra-2,Marek Illéš,True,9.923496347289314,4.5117965300448875,16.29526413977128,0.0001,17.157438897667458,0.11058
+city-nitra,Nitra,city,city-nitra-3,Igor Kršiak,True,37.07996033248618,28.165527159644387,46.258124047067085,0.34868,22.7227541222097,0.17748
+city-nitra,Nitra,city,city-nitra-4,Zuzana Uhríková,True,10.740140798024406,5.183664670398691,17.35143345768835,0.0003,16.164144663983436,0.10128
+city-zilina,Žilina,city,city-zilina-1,Peter Cibulka,True,12.101376769154406,0.7542903940906887,29.585094089299112,0.10744,12.101376769154406,0.10654
+city-zilina,Žilina,city,city-zilina-2,Peter Fiabáne,True,27.384016248394254,7.369901563470575,51.28889742734045,0.39918,27.384016248394254,0.4087
+city-zilina,Žilina,city,city-zilina-3,Rastislav Johanes,True,10.317717976849975,0.38105253246231036,26.17896904094705,0.0847,10.317717976849975,0.08258
+city-zilina,Žilina,city,city-zilina-4,Bohumil Kostolný,True,10.317717976849975,0.3838781706402731,26.47156646692169,0.08394,10.317717976849975,0.08474
+city-zilina,Žilina,city,city-zilina-5,Anton Kozlík,True,10.317717976849975,0.40775498086770706,26.451867662419545,0.08528,10.317717976849975,0.082
+city-zilina,Žilina,city,city-zilina-6,Ivan Magát,True,10.317717976849975,0.40568105398378196,26.644185823632313,0.08622,10.317717976849975,0.08506
+city-zilina,Žilina,city,city-zilina-7,Michal Milo,True,8.926017098201458,0.20253366788990465,24.223616089115495,0.06992,8.926017098201458,0.0675
+city-zilina,Žilina,city,city-zilina-8,Miroslav Sokol,True,10.317717976849975,0.39205869843701247,26.423005593825184,0.08332,10.317717976849975,0.08288
+city-banska-bystrica,Banská Bystrica,city,city-banska-bystrica-1,Diana Javorčíková,True,35.714197738957886,29.073449253744823,42.53079419924539,0.27204,28.259073115119914,0.29074
+city-banska-bystrica,Banská Bystrica,city,city-banska-bystrica-2,Marian Kotleba,True,4.453675706531215,1.848812231092508,7.4974359512430055,0.0,10.324246936491702,0.05274
+city-banska-bystrica,Banská Bystrica,city,city-banska-bystrica-3,Matúš Molitoris,True,16.664375976964386,11.64151419804531,21.991044668467207,0.00036,11.933952964927936,0.06562
+city-banska-bystrica,Banská Bystrica,city,city-banska-bystrica-4,Ján Nosko,True,41.56588040031272,34.66196656582132,48.51233292564684,0.7276,39.158480046968734,0.53712
+city-banska-bystrica,Banská Bystrica,city,city-banska-bystrica-5,Tomáš Sobota,False,0,0,0,0,0,0
+city-banska-bystrica,Banská Bystrica,city,city-banska-bystrica-6,Ondrej Vereš,True,1.6018701772337898,0.24024483392279372,3.4534123647405437,0.0,10.324246936491702,0.05378
+city-presov,Prešov,city,city-presov-1,Artúr Benes,True,14.00016510354029,1.2056683371543035,32.61115845476428,0.11388,14.00016510354029,0.1176
+city-presov,Prešov,city,city-presov-2,Martin Eštočák,True,12.716956219943057,0.876042583855917,30.77501206887201,0.0977,12.716956219943057,0.09998
+city-presov,Prešov,city,city-presov-3,Pavel Hagyari,True,15.861499060051019,1.819634638668427,35.920359679398025,0.14366,15.861499060051019,0.1396
+city-presov,Prešov,city,city-presov-4,Rastislav Mochnacký,True,13.993773947660515,1.2180069359793282,32.525525513004304,0.11342,13.993773947660515,0.11476
+city-presov,Prešov,city,city-presov-5,František Oľha,True,30.376641672221936,9.193872730477402,54.87961112115622,0.42928,30.376641672221936,0.42408
+city-presov,Prešov,city,city-presov-6,Svetlana Pavlovičová,True,13.050963996583187,0.9545695053776485,31.0953651265529,0.10206,13.050963996583187,0.10398
+city-kosice,Košice,city,city-kosice-1,Lenka Kovačevičová,True,16.92328686251007,11.59978716913026,22.79097206141147,0.04952,15.92875410359261,0.16616
+city-kosice,Košice,city,city-kosice-2,Ladislav Lörinc,True,25.92823322091175,19.866392030182695,32.43312093980394,0.54094,13.78021106999886,0.13044
+city-kosice,Košice,city,city-kosice-3,Ladislav Lörincz,True,2.858390738796981,0.6649121466287586,5.914199834553226,0.0,8.162212402110459,0.05954
+city-kosice,Košice,city,city-kosice-4,Martin Mudrák,True,20.81530020660761,15.272661255449407,26.678378555892973,0.15846,9.423478562134902,0.07392
+city-kosice,Košice,city,city-kosice-5,Jaroslav Polaček,True,22.40468300396834,16.24013525636947,28.97861419583677,0.2509,25.673482274842925,0.36554
+city-kosice,Košice,city,city-kosice-6,Alexander Riabov,True,6.442372864616935,3.0746013806986743,10.516278683310588,0.00016,9.4348245926049,0.07232
+city-kosice,Košice,city,city-kosice-7,Miroslav Sabol,True,2.801343085790193,0.589836852977789,5.877678593616763,2e-05,9.4348245926049,0.07442
+city-kosice,Košice,city,city-kosice-8,Alexander Székely,True,1.8263900167981135,0.16632760854437226,4.5280411452272675,0.0,8.162212402110459,0.05766
+region-bratislavsky-kraj,Bratislavský kraj,region,region-bratislavsky-kraj-1,Juraj Droba,True,60.84312876801857,47.39488254302611,74.0258426363055,0.99752,37.408462066782846,0.5886
+region-bratislavsky-kraj,Bratislavský kraj,region,region-bratislavsky-kraj-2,Rastislav Gajarský,True,11.02623056245767,3.649748825180193,19.908141115480632,0.00148,11.17530584689813,0.07662
+region-bratislavsky-kraj,Bratislavský kraj,region,region-bratislavsky-kraj-3,Ján Chalabala,True,3.2584549542491894,0.16967901882305947,8.095268370372308,4e-05,9.67956995704827,0.06136
+region-bratislavsky-kraj,Bratislavský kraj,region,region-bratislavsky-kraj-4,Zuzana Krajčovičová,True,6.399885336233474,1.1747968409881155,13.412710954085082,0.00022,11.1887611075871,0.0745
+region-bratislavsky-kraj,Bratislavský kraj,region,region-bratislavsky-kraj-5,Ľudovít Líška,True,8.813960088558426,2.390149205030474,16.959516379734477,0.00056,9.67956995704827,0.06206
+region-bratislavsky-kraj,Bratislavský kraj,region,region-bratislavsky-kraj-6,Peter Poláček,True,5.110289999018935,0.6869904429229697,11.227250086871985,0.0001,9.67956995704827,0.06106
+region-bratislavsky-kraj,Bratislavský kraj,region,region-bratislavsky-kraj-7,Dávid Staruch,True,4.548050291463728,0.4869210926951724,10.45660657703235,8e-05,11.1887611075871,0.0758
+region-trnavsky-kraj,Trnavský kraj,region,region-trnavsky-kraj-1,József Berényi,True,13.129023577564025,6.321474954187108,20.93911207645665,0.0019,18.290145247378124,0.19058
+region-trnavsky-kraj,Trnavský kraj,region,region-trnavsky-kraj-2,Jaroslav Cehlárik,True,2.8236954537299814,0.27678372047271116,6.527395951849026,2e-05,8.725915614106954,0.0597
+region-trnavsky-kraj,Trnavský kraj,region,region-trnavsky-kraj-3,Róbert Dohál,True,4.989837559511859,1.133070605238553,10.0152044039774,2e-05,8.725915614106954,0.05974
+region-trnavsky-kraj,Trnavský kraj,region,region-trnavsky-kraj-4,Peter Hambálek,True,15.712554363186925,8.266281947215514,24.010203084734712,0.00396,10.551246196003389,0.07972
+region-trnavsky-kraj,Trnavský kraj,region,region-trnavsky-kraj-5,Matej Lančarič,True,8.357717886566808,3.065491615139031,14.683911065956314,0.00018,17.028834499561704,0.16614
+region-trnavsky-kraj,Trnavský kraj,region,region-trnavsky-kraj-6,Štefan Pollák,True,3.94859864638855,0.6714916352496814,8.473374335450371,0.0,8.725915614106954,0.05922
+region-trnavsky-kraj,Trnavský kraj,region,region-trnavsky-kraj-7,Jozef Viskupič,True,51.03857251305186,40.0693598287775,61.98412855866242,0.99392,27.952027214735914,0.3849
+region-trenciansky-kraj,Trenčiansky kraj,region,region-trenciansky-kraj-1,Jaroslav Baška,True,50.712911045848664,37.02291342556332,64.37546964302828,0.73938,54.895762475714896,0.7895
+region-trenciansky-kraj,Trenčiansky kraj,region,region-trenciansky-kraj-2,Daniel Galas,True,7.047055361925787,1.47860495884164,14.321796280554222,0.00042,13.682307713273751,0.05922
+region-trenciansky-kraj,Trenčiansky kraj,region,region-trenciansky-kraj-3,Lubomír Choleva,True,4.230792159008214,0.41209644642249277,9.942328225225161,8e-05,13.682307713273751,0.061
+region-trenciansky-kraj,Trenčiansky kraj,region,region-trenciansky-kraj-4,Natália Svítková,True,38.00924143321735,25.12566568923472,51.56761952399961,0.26012,17.739622097737605,0.09028
+region-nitriansky-kraj,Nitriansky kraj,region,region-nitriansky-kraj-1,Branislav Becík,True,44.098028957177625,30.59216795018726,57.837564524221705,0.88324,25.507985075372886,0.3345
+region-nitriansky-kraj,Nitriansky kraj,region,region-nitriansky-kraj-2,Erik Blaško,True,8.138872173289807,2.024697213445772,16.030736575980423,0.00308,8.92277039794209,0.06428
+region-nitriansky-kraj,Nitriansky kraj,region,region-nitriansky-kraj-3,Tibor Csenger,True,9.302627977443297,2.6577079579113723,17.50841861950862,0.00556,17.878368726977083,0.18282
+region-nitriansky-kraj,Nitriansky kraj,region,region-nitriansky-kraj-4,Jolana Čuláková,True,9.476028331179712,2.7365199234446425,17.75876570907547,0.00588,10.313965066984023,0.078
+region-nitriansky-kraj,Nitriansky kraj,region,region-nitriansky-kraj-5,Karol Suchan,True,3.1520800012563472,0.14549371871751227,7.882352911021354,0.00028,8.92277039794209,0.06302
+region-nitriansky-kraj,Nitriansky kraj,region,region-nitriansky-kraj-6,Róbert Švec,True,3.1520800012563472,0.14743898260031693,7.903044246579922,0.0003,8.92277039794209,0.06286
+region-nitriansky-kraj,Nitriansky kraj,region,region-nitriansky-kraj-7,Henrich Varga,True,22.680282558396858,12.005898887569934,34.674797563201004,0.10166,19.53136993683974,0.21452
+region-zilinsky-kraj,Žilinský kraj,region,region-zilinsky-kraj-1,Anna Belousovová,True,18.84817403591087,11.000249856555845,27.48391078255118,0.01646,19.185239370946764,0.18606
+region-zilinsky-kraj,Žilinský kraj,region,region-zilinsky-kraj-2,Jana Chlustinová,True,2.6984083391735494,0.2792655501568537,6.104225193830743,0.0,10.629962115158373,0.07112
+region-zilinsky-kraj,Žilinský kraj,region,region-zilinsky-kraj-3,Igor Choma,True,17.295140450414515,9.699704970931997,25.661697345018606,0.01134,15.425724095247121,0.13058
+region-zilinsky-kraj,Žilinský kraj,region,region-zilinsky-kraj-4,Erika Jurinová,True,46.38322176840934,35.78273070542651,57.04505570942624,0.96992,31.84177854620774,0.44882
+region-zilinsky-kraj,Žilinský kraj,region,region-zilinsky-kraj-5,Martin Kapitulík,True,12.25391162068029,5.914189372238296,19.521700484717634,0.00224,12.287333757281626,0.0903
+region-zilinsky-kraj,Žilinský kraj,region,region-zilinsky-kraj-6,Adam Lučanský,False,0,0,0,0,0,0
+region-zilinsky-kraj,Žilinský kraj,region,region-zilinsky-kraj-7,Milan Pova,True,2.5211437854114367,0.2350419867013043,5.775538314166347,4e-05,10.629962115158373,0.07312
+region-banskobystricky-kraj,Banskobystrický kraj,region,region-banskobystricky-kraj-1,Michal Albert,True,6.780643270111134,1.370508825718361,14.00475182124655,0.00108,10.249241240206446,0.07468
+region-banskobystricky-kraj,Banskobystrický kraj,region,region-banskobystricky-kraj-2,Marian Kotleba,True,10.146558319870154,3.133442257064609,18.80291175094732,0.00238,9.886955422677197,0.07086
+region-banskobystricky-kraj,Banskobystrický kraj,region,region-banskobystricky-kraj-3,Ondrej Lunter,True,54.030400983233584,40.38162504349569,67.52261074930702,0.98484,30.962936018331376,0.45558
+region-banskobystricky-kraj,Banskobystrický kraj,region,region-banskobystricky-kraj-4,Roman Malatinec,True,7.475597137362154,1.6851839645495454,15.075469079455257,0.00084,16.692083696441617,0.15814
+region-banskobystricky-kraj,Banskobystrický kraj,region,region-banskobystricky-kraj-5,Peter Plančík,True,2.382512210036342,0.043408123709066763,6.376756999419412,4e-05,9.886955422677197,0.07188
+region-banskobystricky-kraj,Banskobystrický kraj,region,region-banskobystricky-kraj-6,Jaroslav Rusina,True,3.6191834668488196,0.24509017087691662,8.853758638442317,0.00018,11.42848109952932,0.08846
+region-banskobystricky-kraj,Banskobystrický kraj,region,region-banskobystricky-kraj-7,Miroslav Suja,True,15.565104612537823,6.664490447659919,25.959275819401988,0.01064,10.89334710013684,0.0804
+region-presovsky-kraj,Prešovský kraj,region,region-presovsky-kraj-1,Drahomír Čureja,True,2.959813001274375,0.891110384304332,5.5428147819121,0.0,8.676952038794823,0.06548
+region-presovsky-kraj,Prešovský kraj,region,region-presovsky-kraj-2,Marián Geci,True,4.400201710274968,1.8079926560791864,7.502086819181484,0.0,8.676952038794823,0.06616
+region-presovsky-kraj,Prešovský kraj,region,region-presovsky-kraj-3,Ľubomír Goliaš,True,1.0206403239990038,0.03998643660795431,2.652647965301633,0.0,7.560072637964031,0.05384
+region-presovsky-kraj,Prešovský kraj,region,region-presovsky-kraj-4,Jozef Ištok,True,1.9592040612869388,0.3584077408331507,4.1770263053151595,0.0,8.676952038794823,0.06592
+region-presovsky-kraj,Prešovský kraj,region,region-presovsky-kraj-5,Zoltán Kašo,False,0,0,0,0,0,0
+region-presovsky-kraj,Prešovský kraj,region,region-presovsky-kraj-6,Judita Laššáková,False,0,0,0,0,0,0
+region-presovsky-kraj,Prešovský kraj,region,region-presovsky-kraj-7,Monika Lešková,False,0,0,0,0,0,0
+region-presovsky-kraj,Prešovský kraj,region,region-presovsky-kraj-8,Milan Majerský,True,46.987952292928284,40.068516457347144,54.00778254512315,0.93956,24.913396762113234,0.34964
+region-presovsky-kraj,Prešovský kraj,region,region-presovsky-kraj-9,Milan Mazurek,True,32.15311661164974,25.711561094355332,38.794006787861825,0.06044,14.173145759948444,0.13848
+region-presovsky-kraj,Prešovský kraj,region,region-presovsky-kraj-10,Samuel Migaľ,True,8.520260710490847,4.792379600119826,12.629916197660995,0.0,14.649242711195921,0.14344
+region-presovsky-kraj,Prešovský kraj,region,region-presovsky-kraj-11,Ján Stanko,True,1.998811288095844,0.34211040982173285,4.301654703428847,0.0,12.673286012393897,0.11704
+region-kosicky-kraj,Košický kraj,region,region-kosicky-kraj-1,Tibor Géci,True,5.503380019196291,0.8244972734277553,11.93991421175993,0.00158,10.111465597123564,0.0667
+region-kosicky-kraj,Košický kraj,region,region-kosicky-kraj-2,Džemal Kodrazi,True,4.39082522009024,0.4464496697764462,10.09302298590239,0.00068,11.857820397361008,0.08312
+region-kosicky-kraj,Košický kraj,region,region-kosicky-kraj-3,Marián Porvažník,True,26.926599999567628,15.389693338778274,39.49655466955868,0.22666,13.109892154612876,0.09862
+region-kosicky-kraj,Košický kraj,region,region-kosicky-kraj-4,Monika Sofiya Soročinová,True,6.789803455580912,1.3423242762215069,13.980083854353053,0.00276,12.268250137090057,0.08882
+region-kosicky-kraj,Košický kraj,region,region-kosicky-kraj-5,Igor Šimko,True,17.788867365266327,8.26275535217642,28.55058064778759,0.05558,19.732768664764507,0.1904
+region-kosicky-kraj,Košický kraj,region,region-kosicky-kraj-6,Rastislav Trnka,True,38.60052394029861,25.607867811341997,52.11213443506338,0.71274,32.91980304904799,0.47234

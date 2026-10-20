@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="sk">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Verejný experiment: predpoveď slovenských samosprávnych volieb 2026 pre 8 krajov, 8 miest a 17 bratislavských mestských častí. Odhady, 80 % intervaly a pravdepodobnosti výhry.">
+  <title>Samospráva 2026 · Volebný model</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+<a class="skip" href="#forecast">Preskočiť na predpoveď</a>
+<div class="page">
+  <header><a class="brand" href="./">Samospráva 2026</a><nav aria-label="Hlavné menu"><a href="#forecast">Predpoveď</a><a href="#method">Metodika</a><a href="#sources">Zdroje</a><a href="#evaluation">Vyhodnotenie</a></nav></header>
+  <main>
+    <section class="intro">
+      <h1>Kto povedie kraje a mestá?</h1>
+      <p>Model výsledkov volieb 24. októbra 2026. Odhady, 80 % intervaly a pravdepodobnosti výhry v 33 súbojoch.</p>
+      <p class="meta" id="status">Načítavam dátový uzáver…</p>
+    </section>
+    <div class="workspace" id="forecast">
+      <aside aria-label="Výber volieb">
+        <div class="categories" role="group" aria-label="Typ volieb">
+          <button type="button" data-category="region">Predsedovia krajov</button>
+          <button type="button" data-category="city" aria-pressed="true">Primátori miest</button>
+          <button type="button" data-category="borough">Bratislavské mestské časti</button>
+        </div>
+        <label for="race">Vybrať súboj</label><select id="race" aria-controls="race-content"></select>
+        <p class="small" id="coverage"></p>
+        <a class="small" href="all.html">Všetkých 33 súbojov na jednej stránke</a>
+      </aside>
+      <section id="race-content" aria-live="polite" aria-busy="true">
+        <h2 id="race-name">Predpoveď</h2><p class="sub" id="race-type">Načítavam kandidátov…</p>
+        <div class="table-wrap"><table><caption class="sr-only">Odhad hlasov a pravdepodobnosť výhry pre každého kandidáta</caption><thead><tr><th scope="col">Kandidát</th><th scope="col">Odhad hlasov</th><th scope="col">80 % interval</th><th scope="col">Výhra</th></tr></thead><tbody id="candidates"></tbody></table></div>
+        <p class="small">Podiely sa vzťahujú na platné hlasy pre aktívnych kandidátov. Interval je neistota modelu, nie záruka výsledku. Zaokrúhlené podiely nemusia dať presne 100 %.</p>
+        <div id="race-notes" class="notes"></div>
+        <div class="explain"><section><h3>Na čom stojí odhad</h3><ul id="race-sources"></ul></section><section><h3>Ako čítať pravdepodobnosť</h3><p>Výhra znamená najvyšší podiel v jedinom kole. Na zvolenie netreba 50 % hlasov.</p><p>80 % interval tvorí 10. až 90. percentil simulácií pre daného kandidáta. Intervaly všetkých kandidátov sa nesčítavajú.</p></section></div>
+        <details><summary>Fundamentálny model a trhový benchmark</summary><div id="benchmark"></div></details>
+      </section>
+    </div>
+    <noscript><p>Interaktívny výber potrebuje JavaScript. <a href="all.html">Všetky výsledky sú dostupné aj ako statické tabuľky.</a></p></noscript>
+    <section class="article" id="method">
+      <h2>Metodika a jej hranice</h2>
+      <p>Najprv overené kandidátne pole, potom rozdelenie 100 % hlasov a simulácia jedného kola. Rovnaké pravidlo platí pre županov, primátorov aj starostov. Predpoveď je verejný výpočtový experiment vytvorený pomocou Codexu; nejde o samostatný reprezentatívny prieskum.</p>
+      <p>Fundamentálny model sa učí z oficiálnych výsledkov 2018 → 2022: minulý podiel, minulé víťazstvo, počet subjektov v koalícii, funkcia zástupcu, deklarovaná volená alebo verejná funkcia a nezávislá kandidatúra. Ide o predikčné asociácie, nie kauzálny odhad výhody obhajcu. Návrat kandidáta po prerušení mandátu nie je totožný s aktuálnym výkonom funkcie.</p>
+      <p>Obce s aspoň 1 000 platnými hlasmi a viacerými kandidátmi sú deterministicky rozdelené na tréning (60 %), kalibráciu (20 %) a test (20 %). Voľby krajov 2017 → 2022 sú samostatnou skúškou prenosu. Krajské a veľkomestské súboje sa môžu od trénovacích obcí výrazne líšiť.</p>
+      <div id="backtest" class="readout"></div>
+      <p>Zaradené prieskumy aktualizujú slabý základ s váhou 5 pseudopozorovaní. Účinná váha je najviac polovica vzorky, maximálne 200 na meranie, s polčasom 30 dní. Pri nezverejnenej miestnej vzorke je počiatočná váha 25; nejde o skutočný počet respondentov. Pri chýbajúcom terénnom dátume sa výslovne používa dátum publikovania a znížená váha. Kandidátske zadanie aj neúplnosť sú uvedené v dátach.</p>
+      <p>Nerozhodnutí a podpora odstúpených kandidátov sa presúvajú v neistom scenári s Dirichletovým rozdelením okolo fundamentálneho základu. Nie je dokázané, že sa tak voliči skutočne presunú. Pri veľkých zmenách kandidátneho poľa, neúplných podieloch alebo nedostatočnej metodike je prieskum vyradený.</p>
+      <p>Podiely sa simulujú z Dirichletovho rozdelenia 50 000-krát na súboj. Koncentrácia základu je vybraná podľa 80 % pokrytia na kalibračnej množine; pri prieskumoch rastie o ich účinnú váhu, najviac na 80. Toto zúženie s prieskumami je modelový predpoklad, ktorý sa pred rokom 2026 osobitne nekalibroval. Počet simulácií znižuje numerickú chybu, nenahrádza chýbajúce informácie.</p>
+      <p>Kurzy nemenia predpoveď. Pri kompletnom trhu sa benchmark počíta ako normalizované 1 / kurz, osobitne za každú kanceláriu. Kurzy sú zo zverejnených prehľadov tretích strán; neboli potvrdené priamo v kanceláriách. Internetové ankety nie sú vstupom. Model nezahŕňa individuálnu prognózu účasti, systematický model voličských presunov, všetky miestne udalosti ani presnú pravdepodobnosť rovnosti hlasov.</p>
+      <p>Pri rovnosti najvyššieho počtu skutočných hlasov nejde o bežnú výhru jedného kandidáta. Spojité simulácie presnú rovnosť nevytvárajú; 100 % pri jedinom kandidátovi je podmienené platným konaním volieb a hlasovaním. Výhry z 0 alebo 50 000 simulácií na webe označujeme približným znakom.</p>
+      <p><a href="METHODOLOGY.md">Úplná špecifikácia a hodnotiaci plán</a> · <a href="data/polls.json">Zaradené a vyradené merania</a> · <a href="data/fit.json">Parametre a rozdelenie testu</a></p>
+    </section>
+    <section class="article" id="sources"><h2>Zdroje a dátová stopa</h2><p>Primárne kandidátky MV SR a historické výsledky ŠÚ SR dopĺňajú publikované prieskumy, správy o odstúpeniach a trhové prehľady. Výskum prebehol cez Firecrawl a Exa. Exa po úvodných úspešných volaniach opakovane vrátila chybu INVALID_ARGUMENT; ďalší zber pokračoval cez Firecrawl a priame úradné exporty.</p><p><a href="data/research-log.json">Záznam zberu a chýb</a> · <a href="data/events.json">Udalosti a odstúpenia</a> · <a href="data/sources.json">Register zdrojov JSON</a></p><ul id="source-list"></ul></section>
+    <section class="article" id="evaluation"><h2>Vyhodnotenie po voľbách</h2><p id="evaluation-status">Skutočné výsledky ešte nie sú k dispozícii. Pôvodná predpoveď sa po uzamknutí neprepočítava.</p><p>Po zverejnení výsledkov ŠÚ SR doplníme chybu podielov (MAE a RMSE), 80 % pokrytie, úspešnosť víťazov, Brierovo a logaritmické skóre. Výsledky budú osobitne za kraje, mestá a mestské časti, aj za súboje s prieskumami a bez nich. Súboje s jediným kandidátom sa uvedú samostatne.</p><p id="lock-status"></p><a href="data/LOCK.json">Kontrolné súčty uzamknutej snímky</a><div id="evaluation-output"></div></section>
+  </main>
+  <footer><span>Verejný experiment · údaje k uzáveru</span><nav aria-label="Export dát"><a href="data/forecast.json">Dáta JSON</a><a href="data/forecast.csv">CSV</a><a href="https://github.com/mareksulik/volebny-model-codex">GitHub</a></nav></footer>
+</div>
+</body></html>

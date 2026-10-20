@@ -1,0 +1,1289 @@
+[
+  {
+    "file": "ba-poll.json",
+    "sha256": "474bff41e7974b6dbb5ad239e4dfc188eab70831abc475242e735ec5638c2c78",
+    "status": "retrieved",
+    "urls": [],
+    "source_url": "https://regiony.zoznam.sk/budu-mat-bratislava-a-kosice-novych-primatorov-novy-prieskum-ukazal-pozoruhodne-cisla/",
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "bb-ako.json",
+    "sha256": "c3ccfc806b24de5ef03b410c7364f803a5b9d23dcd971a092693bb1b239a9eb9",
+    "status": "retrieved",
+    "urls": [],
+    "source_url": "https://bbonline.sk/prieskum-ako-pre-bbonline-sk-volby-primatora-banskej-bystrice-prinesu-tesny-suboj-jana-noska-a-diany-javorcikovej/",
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "bb-sanep.json",
+    "sha256": "e3a2ef5d08ca08f5f85bcd75acf5780590a4c3fc71da42a059387f3c86cae553",
+    "status": "retrieved",
+    "urls": [],
+    "source_url": "https://www.ta3.com/clanok/1077195/prieskum-pre-ta3-suboj-o-bansku-bystricu-sa-zamotava-jeden-z-kandidatov-vyrazne-stiahol-naskok-lidra",
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "borough-search-cunovo.json",
+    "sha256": "f62bb0662e08f7f6bba9b278a8564b5d77cf7d6815687bc2d2b1ecaaf85e4776",
+    "status": "retrieved",
+    "urls": [
+      {
+        "url": "https://www.cunovo.eu/zoznam-zaregistrovanych-kandidatov-pre-volby-starostu-mc-bratislava-cunovo-a73-910",
+        "title": "Zoznam zaregistrovaných kandidátov pre voľby starostu ..."
+      },
+      {
+        "url": "https://www.aktuality.sk/udalost/komunalne-volby-2026/bratislavsky-kraj/bratislava-cunovo-529435/",
+        "title": "Bratislava - Čunovo - Kandidáti na starostov a poslancov"
+      },
+      {
+        "url": "https://www.teraz.sk/regiony/volby26-v-bratislavskom-cunove-su-pi/990704-clanok.html",
+        "title": "V bratislavskom Čunove sú piati kandidáti na starostu"
+      }
+    ],
+    "source_url": null,
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "borough-search-devin.json",
+    "sha256": "c42e521d529b60642967f0a28a969b34673ece04d0fc5c468ba11a42fe4df15e",
+    "status": "error",
+    "urls": [],
+    "source_url": null,
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "borough-search-devinska-nova-ves.json",
+    "sha256": "364f88185e0e159ad86dc013a0a88cb0a31c3f6ce8ba78c9af6876bd168d6c18",
+    "status": "error",
+    "urls": [],
+    "source_url": null,
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "borough-search-dubravka.json",
+    "sha256": "6cba8ae29c2e87ea799907c609b9e871030865e6b70b9ff683cd07f24316b61c",
+    "status": "error",
+    "urls": [],
+    "source_url": null,
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "borough-search-jarovce.json",
+    "sha256": "c525d039ed1d8484e6be475982accf6a4644a8be9e478bc568912a6f8f7dd570",
+    "status": "retrieved",
+    "urls": [
+      {
+        "url": "https://www.aktuality.sk/udalost/komunalne-volby-2026/bratislavsky-kraj/bratislava-jarovce-529443/",
+        "title": "Bratislava - Jarovce - Kandidáti na starostov a poslancov"
+      },
+      {
+        "url": "https://www.sme.sk/bratislava/c/komunalne-zupne-volby-2026-bratislava-kto-kandiduje-primator-zupan-starostovia",
+        "title": "Komunálne a župné voľby 2026 v Bratislave: Prehľad ..."
+      },
+      {
+        "url": "https://komunalne-volby.sk/bratislavsky-kraj/okres-bratislava-v/bratislava-jarovce/",
+        "title": "Bratislava - Jarovce - Komunálne voľby 2026"
+      }
+    ],
+    "source_url": null,
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "borough-search-karlova-ves.json",
+    "sha256": "3fe04baa55e02348c4f62ee08981fb5e0482417a441bf85705e9fc660c728aab",
+    "status": "retrieved",
+    "urls": [
+      {
+        "url": "https://www.aktuality.sk/udalost/komunalne-volby-2026/bratislavsky-kraj/bratislava-karlova-ves-529397/",
+        "title": "Bratislava - Karlova Ves - Kandidáti na starostov a poslancov - Aktuality.sk"
+      },
+      {
+        "url": "https://www.sme.sk/bratislava/c/komunalne-zupne-volby-2026-bratislava-kto-kandiduje-primator-zupan-starostovia",
+        "title": "Komunálne a župné voľby 2026 v Bratislave: Prehľad kandidátov na ..."
+      },
+      {
+        "url": "https://komunalne-volby.sk/bratislavsky-kraj/okres-bratislava-iv/bratislava-karlova-ves/kandidati-na-primatora-starostu-obce-bratislava-karlova-ves/bratislava-karlova-ves-2026-prieskum-preferencii-kandidatov-na-primatora-starostu/",
+        "title": "Karlova Ves 2026 - prieskum preferencií kandidátov na primátora ..."
+      }
+    ],
+    "source_url": null,
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "borough-search-lamac.json",
+    "sha256": "86266087fd94504e305e2e11e47bf9ac736e962aa39f2610d6cfa00456d51599",
+    "status": "error",
+    "urls": [],
+    "source_url": null,
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "borough-search-nove-mesto.json",
+    "sha256": "fe77428c7adc4d849c28b368eae7411e4289326dbe2d128ef9bfc635125de5f8",
+    "status": "error",
+    "urls": [],
+    "source_url": null,
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "borough-search-petrzalka.json",
+    "sha256": "5e7c0065b0dc304f67ae7e931982c1535e4e2af890f4597d83a8d05b8128b05f",
+    "status": "retrieved",
+    "urls": [
+      {
+        "url": "https://volby.petrzalka.sk/",
+        "title": "Voľby PETRŽALKA"
+      },
+      {
+        "url": "https://bratislava.sk/mesto-bratislava/transparentne-mesto/komunalne-volby-2026",
+        "title": "Komunálne voľby 2026 – Mesto Bratislava"
+      },
+      {
+        "url": "https://www.facebook.com/groups/8650209298392299/posts/28722252487428017/",
+        "title": "Kto by mal viesť najväčšie slovenské sídlisko v ďalšom ..."
+      }
+    ],
+    "source_url": null,
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "borough-search-podunajske-biskupice.json",
+    "sha256": "a6189ef51390d1f1b2a20064fd99c6429eac5f272abaaa0824bafd7f42efbbcd",
+    "status": "retrieved",
+    "urls": [
+      {
+        "url": "https://komunalne-volby.sk/bratislavsky-kraj/okres-bratislava-ii/bratislava-podunajske-biskupice/",
+        "title": "Bratislava - Podunajské Biskupice - Komunálne voľby 2026"
+      },
+      {
+        "url": "https://komunalne-volby.sk/bratislavsky-kraj/okres-bratislava-ii/bratislava-podunajske-biskupice/kandidati-na-primatora-starostu-obce-bratislava-podunajske-biskupice/bratislava-podunajske-biskupice-2026-prieskum-preferencii-kandidatov-na-primatora-starostu/",
+        "title": "Bratislava - Podunajské Biskupice 2026 - prieskum preferencií ..."
+      },
+      {
+        "url": "https://www.topky.sk/cl/2005799/9524413/Komunalne-volby-2026---Bratislava-Podunajske-Biskupice--kandidati-na-starostu--poslanci-a-vysledky",
+        "title": "Komunálne voľby 2026 - Bratislava-Podunajské Biskupice ..."
+      }
+    ],
+    "source_url": null,
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "borough-search-raca.json",
+    "sha256": "44c30c442e1936bea735c58cc3e56d6d9f82c2bb0604c414cc05d40d2d9fdbbb",
+    "status": "retrieved",
+    "urls": [
+      {
+        "url": "https://www.sme.sk/bratislava/c/komunalne-zupne-volby-2026-bratislava-kto-kandiduje-primator-zupan-starostovia",
+        "title": "Komunálne a župné voľby 2026 v Bratislave: Prehľad ..."
+      },
+      {
+        "url": "https://www.aktuality.sk/udalost/komunalne-volby-2026/bratislavsky-kraj/bratislava-raca-529354/",
+        "title": "Bratislava - Rača - Kandidáti na starostov a poslancov"
+      },
+      {
+        "url": "https://komunalne-volby.sk/bratislavsky-kraj/okres-bratislava-iii/bratislava-raca/kandidati-na-primatora-starostu-obce-bratislava-raca/bratislava-raca-2026-prieskum-preferencii-kandidatov-na-primatora-starostu/",
+        "title": "Rača 2026 - prieskum preferencií kandidátov na primátora ..."
+      }
+    ],
+    "source_url": null,
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "borough-search-rusovce.json",
+    "sha256": "564598418f384d038ee41b55e4248d8eafdd4d4aff2fd025fa61a5377fb848fb",
+    "status": "retrieved",
+    "urls": [
+      {
+        "url": "https://www.sme.sk/bratislava/c/komunalne-zupne-volby-2026-bratislava-kto-kandiduje-primator-zupan-starostovia",
+        "title": "Komunálne a župné voľby 2026 v Bratislave: Prehľad ..."
+      },
+      {
+        "url": "https://www.aktuality.sk/udalost/komunalne-volby-2026/bratislavsky-kraj/bratislava-rusovce-529494/",
+        "title": "Bratislava - Rusovce - Kandidáti na starostov a poslancov"
+      },
+      {
+        "url": "https://volby.pravda.sk/komunalne-volby",
+        "title": "Komunálne voľby 2026: Obecné voľby na Slovensku - Pravda"
+      }
+    ],
+    "source_url": null,
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "borough-search-ruzinov.json",
+    "sha256": "8e1367d91766cc2034350b0584d1440d096a2a88969f124d258058bc84596ca0",
+    "status": "retrieved",
+    "urls": [
+      {
+        "url": "https://www.sme.sk/bratislava/c/komunalne-zupne-volby-2026-bratislava-kto-kandiduje-primator-zupan-starostovia",
+        "title": "Komunálne a župné voľby 2026 v Bratislave: Prehľad ..."
+      },
+      {
+        "url": "https://www.aktuality.sk/udalost/komunalne-volby-2026/bratislavsky-kraj/bratislava-ruzinov-529320/",
+        "title": "Bratislava - Ružinov - Kandidáti na starostov a poslancov"
+      },
+      {
+        "url": "https://bratislava.sk/mesto-bratislava/transparentne-mesto/komunalne-volby-2026",
+        "title": "Komunálne voľby 2026 – Mesto Bratislava"
+      }
+    ],
+    "source_url": null,
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "borough-search-stare-mesto.json",
+    "sha256": "1a598feb6757e2a9ce47f184cd92077c5646f561e5c6af50155db94a4f6ec79e",
+    "status": "error",
+    "urls": [],
+    "source_url": null,
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "borough-search-vajnory.json",
+    "sha256": "95890c06c7591c20555942df8e68d74b1a45d96a68fe69199a73dca306dd5423",
+    "status": "retrieved",
+    "urls": [
+      {
+        "url": "https://www.sme.sk/bratislava/c/komunalne-zupne-volby-2026-bratislava-kto-kandiduje-primator-zupan-starostovia",
+        "title": "Komunálne a župné voľby 2026 v Bratislave: Prehľad ..."
+      },
+      {
+        "url": "https://komunalne-volby.sk/komunalne-volby/bratislava-vajnory-2026-prieskum-preferencii-kandidatov-na-primatora-starostu/",
+        "title": "Bratislava - Vajnory 2026 - prieskum preferencií kandidátov na ..."
+      },
+      {
+        "url": "https://www.aktuality.sk/udalost/komunalne-volby-2026/bratislavsky-kraj/bratislava-vajnory-529362/",
+        "title": "Bratislava - Vajnory - Kandidáti na starostov a poslancov"
+      }
+    ],
+    "source_url": null,
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "borough-search-vrakuna.json",
+    "sha256": "bbf4f24c5e0cfb664e3a02ceb390c3e13ea95faf6a55916bf4ee4c89ba03375a",
+    "status": "error",
+    "urls": [],
+    "source_url": null,
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "borough-search-zahorska-bystrica.json",
+    "sha256": "793b485a002cf7edeae0cac7625eb98c710bf57cfdb0db221c0fcd05a43530c0",
+    "status": "retrieved",
+    "urls": [
+      {
+        "url": "https://www.aktuality.sk/udalost/komunalne-volby-2026/bratislavsky-kraj/bratislava-zahorska-bystrica-529427/",
+        "title": "Bratislava - Záhorská Bystrica - Kandidáti na starostov a ..."
+      },
+      {
+        "url": "https://www.sme.sk/bratislava/c/komunalne-zupne-volby-2026-bratislava-kto-kandiduje-primator-zupan-starostovia",
+        "title": "Komunálne a župné voľby 2026 v Bratislave: Prehľad ..."
+      },
+      {
+        "url": "https://komunalne-volby.sk/bratislavsky-kraj/okres-bratislava-iv/bratislava-zahorska-bystrica/kandidati-na-primatora-starostu-obce-bratislava-zahorska-bystrica/bratislava-zahorska-bystrica-2026-prieskum-preferencii-kandidatov-na-primatora-starostu/",
+        "title": "Záhorská Bystrica 2026 - prieskum preferencií kandidátov na ..."
+      }
+    ],
+    "source_url": null,
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "candidate-boroughs.json",
+    "sha256": "bf8bcb2bebe38d3e3efdade11991f2272fc84b79c3b5df09fe260098126668f6",
+    "status": "retrieved",
+    "urls": [],
+    "source_url": "https://www.aktuality.sk/clanok/qXyfW7d/kompletny-zoznam-kandidatov-na-starostov-mestskych-casti-v-bratislave-vo-volbach-2026/",
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "candidate-cities.json",
+    "sha256": "b3184a3baa57c6f044220e6734264a869de84f04bbe92054eeacbfc47b3e6a58",
+    "status": "retrieved",
+    "urls": [],
+    "source_url": "https://www.aktuality.sk/clanok/W8n9gmb/kompletny-zoznam-kandidatov-na-primatorov-krajskych-miest-vo-volbach-2026/",
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "candidate-regions.json",
+    "sha256": "d242b10fc5f25092205a0183628b690a40e17cc27f4c5c5245575ea9672b3e13",
+    "status": "retrieved",
+    "urls": [],
+    "source_url": "https://www.aktuality.sk/clanok/pGWwtjf/kompletny-zoznam-kandidatov-na-predsedov-samospravnych-krajov-vo-volbach-do-vuc-2026/",
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "downloads2017.json",
+    "sha256": "a4dd9458fe00a53048a475c81bbc6d3f3804945b624e46c1efcb740dfed16f02",
+    "status": "retrieved",
+    "urls": [],
+    "source_url": "https://volby.statistics.sk/osk/osk2017/sk/download.html",
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "downloads2018.json",
+    "sha256": "77ba95e9bb8a5f0c2487ce3125610fa52172968f96490fb8ccd5c0629854e9f0",
+    "status": "retrieved",
+    "urls": [],
+    "source_url": "https://volby.statistics.sk/oso/oso2018/sk/download.html",
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "events-lucansky.json",
+    "sha256": "6f9c03cc992abf0c153209526e5546098bf6f4ad73fb7ea73aaf8ef5e5357176",
+    "status": "retrieved",
+    "urls": [
+      {
+        "url": "https://dennikn.sk/minuta/5589680/",
+        "title": "Adam Lučanský sa vzdal kandidatúry na žilinského župana ..."
+      },
+      {
+        "url": "https://www.aktuality.sk/clanok/HvrN26N/adam-lucansky-sa-v-zivom-vysielani-vzdal-kandidatury-na-predsedu-zilinskeho-kraja-v-prospech-igora-chomu/",
+        "title": "Adam Lučanský sa v živom vysielaní vzdal kandidatúry na ..."
+      },
+      {
+        "url": "https://www.noviny.sk/slovensko/1265348-samospravne-volby-2026-adam-lucansky-v-priamom-prenose-odstupil-z-kandidatury-v-prospech-chomu",
+        "title": "Samosprávne voľby 2026: Adam Lučanský v priamom ..."
+      },
+      {
+        "url": "https://www.ta3.com/clanok/1073947/koalicia-stahuje-dalsieho-kandidata-adam-lucansky-sa-vzdal-boja-o-zilinskeho-zupana-v-prospech-igora-chomu",
+        "title": "Koalícia sťahuje ďalšieho kandidáta. Lučanský sa vzdal ..."
+      },
+      {
+        "url": "https://www.pravda.sk/spravy/domace/clanok/2049589-adam-lucansky-sa-vzdal-kandidatury-v-prospech-igora-chomu",
+        "title": "Adam Lučanský vzdal boj o kreslo župana, podporil Igora ..."
+      }
+    ],
+    "source_url": null,
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "events-withdrawals.json",
+    "sha256": "82c239062f3ffaf14fa529c0b017f37ea7adbfd5b2bcbddb4f239e7841af4b9e",
+    "status": "retrieved",
+    "urls": [
+      {
+        "url": "https://www.instagram.com/p/Dd0foyCCnRE/",
+        "title": "ODSTUPUJE Z KANDIDATÚRY Štyridsaťštyriročný ..."
+      },
+      {
+        "url": "https://hnonline.sk/volby-2026/komunalne-volby-2026/96304578-miroslav-heredos-po-vaznych-zdravotnych-problemoch-odstupuje-z-kandidatury-na-post-primatora-bratislavy",
+        "title": "Miroslav Heredoš po vážnych zdravotných problémoch ..."
+      },
+      {
+        "url": "https://www.ta3.com/clanok/1073727/heredos-odstupuje-z-boja-o-bratislavu-po-srdcovej-prihode-mu-lekari-nariadili-niekolkotyzdnovy-pokoj",
+        "title": "Heredoš odstupuje z boja o Bratislavu. Po srdcovej ..."
+      },
+      {
+        "url": "https://www.finreport.sk/agenturne-spravy/miroslav-heredos-odstupuje-z-kandidatury-na-primatora-bratislavy-dovodom-su-vazne-zdravotne-komplikacie/",
+        "title": "Miroslav Heredoš odstupuje z kandidatúry na primátora ..."
+      },
+      {
+        "url": "https://www.facebook.com/sme.sk/posts/miroslav-heredo%C5%A1-odstupuje-pre-v%C3%A1%C5%BEne-zdravotn%C3%A9-d%C3%B4vody-z-kandidat%C3%BAry-na-post-prim/1551797073655264/",
+        "title": "Miroslav Heredoš odstupuje pre vážne zdravotné dôvody z ..."
+      },
+      {
+        "url": "https://spravy.stvr.sk/spravy-po-minute/podnikatel-miroslav-heredos-odstupuje-z-kandidatury-na-post-primatora-bratislavy/",
+        "title": "Podnikateľ Miroslav Heredoš odstupuje z kandidatúry na ..."
+      }
+    ],
+    "source_url": null,
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "exa-33.json",
+    "sha256": "d25c7b1e8a74cabf02d9e30fac472c13ff5f7c836d17f28bcbf545b1124879ae",
+    "status": "retrieved",
+    "urls": [],
+    "source_url": null,
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "exa-date.json",
+    "sha256": "18eb55fa881c4284ced26fd43cf0aee215cbe93cac43327018135917659114af",
+    "status": "retrieved",
+    "urls": [],
+    "source_url": null,
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "exa-polls-retry.json",
+    "sha256": "a97be28bdcf8828bf1c2365a3628401f8029f848f97a62cea2d5834755c6e4b2",
+    "status": "error",
+    "urls": [],
+    "source_url": null,
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "exa-polls-saved.json",
+    "sha256": "21d00f679c3552a58ce6d236337a53ebf50eca8f8dfbd2a69dead4646643406e",
+    "status": "error",
+    "urls": [],
+    "source_url": null,
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "fc-ba-saved.json",
+    "sha256": "f9fe082834db29a12f685e06f8fbdc71e760f8e7237d36fdc60876a247fba740",
+    "status": "retrieved",
+    "urls": [
+      {
+        "url": "https://hnonline.sk/volby-2026/volby-do-vuc-2026/96308754-komunalne-volby-2026-bratislava-kompletny-zoznam-kandidatov-na-starostov-a-poslancov-mestskych-casti",
+        "title": "Komunálne voľby 2026 – Bratislava: Kompletný zoznam ..."
+      },
+      {
+        "url": "https://www.aktuality.sk/clanok/qXyfW7d/kompletny-zoznam-kandidatov-na-starostov-mestskych-casti-v-bratislave-vo-volbach-2026/",
+        "title": "Zoznam kandidátov na starostu mestskej časti v Bratislave"
+      },
+      {
+        "url": "https://volby.sme.sk/komunalne-volby/2026/kandidati",
+        "title": "Kandidáti – Komunálne voľby 2026"
+      },
+      {
+        "url": "https://bratislava.sk/mesto-bratislava/transparentne-mesto/komunalne-volby-2026",
+        "title": "Komunálne voľby 2026 – Mesto Bratislava"
+      },
+      {
+        "url": "https://volby.statistics.sk/oso/doplnkove2022/sk/kandidati_na_starostov.html",
+        "title": "Zoznam kandidátov na starostu obce - výsledky volieb"
+      },
+      {
+        "url": "https://banm.sk/novinka/139682/zoznam-zaregistrovanych-kandidatov-pre-volby-do-organov-samospravy-obci-a-do-organov-samospravnych-krajov",
+        "title": "Zoznam zaregistrovaných kandidátov pre voľby do orgánov ..."
+      }
+    ],
+    "source_url": null,
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "fc-date.json",
+    "sha256": "63f93c81c1e5d5f876b0a6aa811efdcba818df23ae8d93c80dbbc25f4e12b59a",
+    "status": "retrieved",
+    "urls": [
+      {
+        "url": "https://www.minv.sk/?informacie-komisia-pre-volby&sprava=predseda-nr-sr-vyhlasil-termin-konania-spojenych-samospravnych-volieb-na-sobotu-24-oktobra-2026",
+        "title": "Predseda NR SR vyhlásil termín konania spojených ..."
+      },
+      {
+        "url": "https://www.facebook.com/ministerstvovnutraSR/posts/%EF%B8%8F-slovensko-%C4%8Dakaj%C3%BA-na-jese%C5%88-druh%C3%A9-spojen%C3%A9-samospr%C3%A1vne-vo%C4%BEby-vo%C4%BEby-do-org%C3%A1nov-sam/1461939385962789/",
+        "title": "Ministerstvo vnútra SR"
+      },
+      {
+        "url": "https://www.facebook.com/spravy.stvr/videos/%C4%8D%C3%ADtajte-%C4%8Dl%C3%A1nok-httpsspravystvrsk202609komunalne-volby-koho-volimekomun%C3%A1lne-vo%C4%BEby/1587490919526638/",
+        "title": "Čítajte článok: https://spravy.stvr. sk/2026/09/komunalne-volby- ..."
+      },
+      {
+        "url": "https://www.minv.sk/?volby-samosprava26",
+        "title": "Voľby do orgánov územnej samosprávy 2026"
+      },
+      {
+        "url": "https://www.zmos.sk/spojene-samospravne-volby-budu-24--oktobra-2026-oznam/mid/536833/.html",
+        "title": "Spojené samosprávne voľby budú 24. októbra 2026"
+      }
+    ],
+    "source_url": null,
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "fc-history.json",
+    "sha256": "d650c675c9a461c3898a00256fb224e379f10d5e1b15d04a8e82e7572703f992",
+    "status": "retrieved",
+    "urls": [
+      {
+        "url": "https://volby.statistics.sk/",
+        "title": "volby.statistics.sk - Štatistický úrad SR"
+      },
+      {
+        "url": "https://www.volbysr.sk/",
+        "title": "VolbySR.sk"
+      },
+      {
+        "url": "https://www.volbysr.sk/en/vysledky_hlasovania_v_referende.html",
+        "title": "Referendum Results"
+      },
+      {
+        "url": "https://volby.sme.sk/komunalne-volby/2022/vysledky",
+        "title": "Výsledky komunálnych volieb 2022 - Regionálne voľby 2026"
+      },
+      {
+        "url": "https://www.minv.sk/?volby-samosprava26",
+        "title": "Voľby do orgánov územnej samosprávy 2026"
+      }
+    ],
+    "source_url": null,
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "fc-moratorium.json",
+    "sha256": "cfb00712523e6d9d861c7339aa5bc8183ad8a03c49e8e3b2bbb5ee4c2619b7f8",
+    "status": "retrieved",
+    "urls": [
+      {
+        "url": "https://volby.sme.sk/regionalne-volby/i/moratorium",
+        "title": "Volebné moratórium pred voľbami 2026 - Voľby SME"
+      },
+      {
+        "url": "https://www.aktuality.sk/clanok/8dEM8Ie/dva-dni-pred-spojenymi-volbami-do-samosprav-zacne-na-slovensku-volebne-moratorium/",
+        "title": "Dva dni pred spojenými voľbami do samospráv začne na ..."
+      },
+      {
+        "url": "https://www.minv.sk/?tlacove-spravy&sprava=volebna-kampan-sa-konci-v-stredu-26-oktobra-o-polnoci",
+        "title": "Volebná kampaň sa končí v stredu 26. októbra o polnoci"
+      },
+      {
+        "url": "https://tnlive.sk/domace/clanok/1054015-volebna-kampan-sa-skonci-22-oktobra-o-polnoci-zacne-plynut-moratorium",
+        "title": "Volebná kampaň sa skončí 22. októbra o polnoci, začne ..."
+      },
+      {
+        "url": "https://zahori.sk/105975/volebna-kampan-sa-skonci-21-oktobra-o-2359-potom-zacne-moratorium/",
+        "title": "Volebná kampaň sa skončí 21. októbra o 23:59, potom ..."
+      }
+    ],
+    "source_url": null,
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "fc-polls.json",
+    "sha256": "abc0f7c7380d2577059d17cb8daecf211726b9255f4eb6b29bfdc0ad6b71b1b1",
+    "status": "retrieved",
+    "urls": [
+      {
+        "url": "https://volby.sme.sk/pref/1/politicke-strany/p/focus",
+        "title": "Najnovšie prieskumy agentúry Focus (preferencie) - Voľby SME"
+      },
+      {
+        "url": "https://nms.global/sk/volebny-model-oktober-2026/",
+        "title": "Najnovší volebný prieskum október 2026"
+      },
+      {
+        "url": "https://www.aktuality.sk/clanok/fMQsm7c/ps-by-prekvapivo-utrzilo-porazku-stat-ukazal-vlastny-prieskum-ktory-skoncil-uplne-inak-ako-u-znamych-agentur/",
+        "title": "Voľby by nevyhralo PS, Matovič kúsok od debaklu. Štát ..."
+      },
+      {
+        "url": "https://www.focus-research.sk/",
+        "title": "Focus: Úvod"
+      },
+      {
+        "url": "https://spravy.stvr.sk/2026/07/prieskum-focus-prve-ps-s-tesnym-naskokom-pred-smerom-najviac-si-polepsila-republika/",
+        "title": "Prieskum Focus: Prvé PS s tesným náskokom pred Smerom"
+      },
+      {
+        "url": "https://www.ipsos.com/sk-sk/ipsos-dennik-n-prieskum-volebnych-preferencii-september-2026",
+        "title": "Prieskum volebných preferencií SEPTEMBER 2026"
+      },
+      {
+        "url": "https://dennikn.sk/tema/prieskumy-preferencii/",
+        "title": "Prieskumy preferencií"
+      },
+      {
+        "url": "https://nms.global/sk/volebny-model-august-2026/",
+        "title": "Volebný prieskum august 2026 | Politické preferencie"
+      }
+    ],
+    "source_url": null,
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "fc-reference.json",
+    "sha256": "c6f5ca81455d7da8a76b9b3b32444683f4eab5e69d9a7491fc4ff82bde7c1afd",
+    "status": "retrieved",
+    "urls": [],
+    "source_url": "https://github.com/josefslerka/senat-2026-forecast",
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "fc-regions-saved.json",
+    "sha256": "a8407afb57d2eddd22f5ab5a6dcb24ba195b769ed841edfb7cdba0777dd24031",
+    "status": "retrieved",
+    "urls": [
+      {
+        "url": "https://www.aktuality.sk/clanok/pGWwtjf/kompletny-zoznam-kandidatov-na-predsedov-samospravnych-krajov-vo-volbach-do-vuc-2026/",
+        "title": "Kompletný zoznam kandidátov na predsedov ..."
+      },
+      {
+        "url": "https://rozhodnisa.sk/kandidati",
+        "title": "Kandidáti 2026 na primátorov, starostov a predsedov krajov"
+      },
+      {
+        "url": "https://www.minv.sk/?samosprava26-info10",
+        "title": "Informácie pre voliča"
+      },
+      {
+        "url": "https://volby.sme.sk/volby-vuc/2026",
+        "title": "Voľby do VÚC 2026 (župné) - Voľby do samosprávnych krajov"
+      },
+      {
+        "url": "https://hnonline.sk/slovensko/96308086-volby-do-vuc-a-samosprav-2026-zoznam-kandidatov",
+        "title": "Komunálne a krajské voľby 2026: Kompletný zoznam ..."
+      },
+      {
+        "url": "https://stavkynavolby.sk/informacie/kandidati-na-predsedu-vuc-2026-kraj-po-kraji/",
+        "title": "Kandidáti na predsedu VÚC 2026 – kraj po kraji"
+      }
+    ],
+    "source_url": null,
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "hist2017osk.json",
+    "sha256": "cf70662776c2ff725d050c6c601a96482458469dcaf46b973662f5106b03a576",
+    "status": "retrieved",
+    "urls": [],
+    "source_url": "https://volby.statistics.sk/osk/osk2017/",
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "hist2018oso.json",
+    "sha256": "8c6644a146f8c9008cabed5dec17724a519d2fa68a8e392d4253805e1a7fc16d",
+    "status": "retrieved",
+    "urls": [],
+    "source_url": "https://volby.statistics.sk/oso/oso2018/sk/",
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "hist2022osk.json",
+    "sha256": "f42214506cfe4e5e3520f589f2c8a86e91783a1d8077bec7d186d8007e349467",
+    "status": "retrieved",
+    "urls": [],
+    "source_url": "https://volby.statistics.sk/osk/osk2022/sk/",
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "hist2022oso.json",
+    "sha256": "81ee146d0bfce7d044a6a331188cc09c941b5c90f0df3d6483b9293c9bae8cad",
+    "status": "retrieved",
+    "urls": [],
+    "source_url": "https://volby.statistics.sk/oso/oso2022/sk/",
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "history-index-retry.json",
+    "sha256": "ca00a524673b30b1db6b52a7a37eb4a0583c38e1a56c8ba2a02b683aaa1f367a",
+    "status": "error",
+    "urls": [],
+    "source_url": null,
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "history-index-saved.json",
+    "sha256": "f54f56b18c1c7afefc5a8a357de3a6329192a498c71ab41d3c0c77f67da204f7",
+    "status": "error",
+    "urls": [],
+    "source_url": null,
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "ixactly-october.json",
+    "sha256": "4cc70b24fbfdb901b144074c2482cae734e11d94c59842c9d394fcb9f598bd3a",
+    "status": "retrieved",
+    "urls": [],
+    "source_url": "https://tnlive.sk/domace/clanok/1056599-kto-ovladne-bratislavu-a-kosice-exkluzivny-prieskum-markizy-ukazal-nalady-volicov-pred-volbami",
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "ixactly.json",
+    "sha256": "c17775a5ba3b8c9e89418c1796355e13eafc0f32a35a22e35b452e5bf08d0c89",
+    "status": "retrieved",
+    "urls": [],
+    "source_url": "https://tnlive.sk/domace/clanok/1038764-exkluzivny-prieskum-kto-ovladne-po-volbach-bratislavu-takto-to-vyzera-s-vallom-ci-razom",
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "ke-focus.json",
+    "sha256": "1bc7c83c16d9345e75a3385260d51ab09a201e92f4c9d9502a76b9c8e00c747a",
+    "status": "retrieved",
+    "urls": [],
+    "source_url": "https://korzar.sme.sk/kosice/c/suboj-o-kosickeho-primatora-je-tesny-polacek-sa-v-novom-prieskume-dostal-pred-l-rinca",
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "ke-ipsos.json",
+    "sha256": "28b2eedff34be0e3c55c36c3de376cbe849999ba84438e13aac4069fae451c6f",
+    "status": "retrieved",
+    "urls": [],
+    "source_url": "https://www.aktuality.sk/clanok/JDRGlLC/volebny-prieskom-pre-kosice-ladislav-lorinc-vedie-nasleduju-martin-mudrak-a-jaroslav-polacek/",
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "mv-register.json",
+    "sha256": "f460fd77593afaed34ce1c8e8deb4dbddc4057c7b9092894a6d9b3b3ee235df5",
+    "status": "retrieved",
+    "urls": [],
+    "source_url": "https://www.minv.sk/?volby-samosprava26",
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "nitra-retry-saved.json",
+    "sha256": "fb2c172f0edfdeab204f42b0dcaf1d75fa3e3ba3c7cb29cc1ea8587234c0a2de",
+    "status": "retrieved",
+    "urls": [],
+    "source_url": "https://www.finreport.sk/agenturne-spravy/favoriti-nitrianskych-volieb-hattas-a-krsiak-ukazali-vysledky-prieskumov-je-medzi-nimi-vyrazny-rozdiel/",
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "nitra-surveys.json",
+    "sha256": "5a9e5ba15f795c56a4be785342295a7f466b250cee89346be48bef78699f3d0c",
+    "status": "error",
+    "urls": [],
+    "source_url": null,
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "odds-cities.json",
+    "sha256": "62e927ebb7c30e3120ceda92e89d1a32dfd316380f08e2c3aae60399067963c9",
+    "status": "retrieved",
+    "urls": [],
+    "source_url": "https://stavkynavolby.sk/informacie/kandidati-na-primatora-krajske-mesta/",
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "odds-primary.json",
+    "sha256": "819925284fc18bf34c5c2a6a55cf242b21a6128da78d05892f987da9d1aa33f8",
+    "status": "retrieved",
+    "urls": [],
+    "source_url": "https://www.betarena.sk/rubriky/spolocenske-stavky/komunalne-volby-slovensko-kandidati-kurzy_11593.html",
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "odds-regions-search.json",
+    "sha256": "22ec8310f9d271b4c94fae9b1a5f6ec306979c63221c2d865b59b7445e11c1ed",
+    "status": "retrieved",
+    "urls": [
+      {
+        "url": "https://www.teraz.sk/spravy/vuc-droba-trnka-becik-viskupic-b/670920-clanok.html",
+        "title": "VÚC: Droba, Trnka, Becík, Viskupič, Baška, Lunter, ..."
+      }
+    ],
+    "source_url": null,
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "odds-regions2.json",
+    "sha256": "4045ac423d10e54a13692cf9fe9baf900c8fb59591749fedf39dec8efb653c9c",
+    "status": "retrieved",
+    "urls": [
+      {
+        "url": "https://www.minv.sk/?tlacove-spravy-7&sprava=predseda-nr-sr-vyhlasil-termin-konania-spojenych-samospravnych-volieb-na-sobotu-24-oktobra-2026",
+        "title": "Predseda NR SR vyhlásil termín konania spojených samosprávnych ..."
+      },
+      {
+        "url": "https://www.pravda.sk/spravy/ekonomika/clanok/2060441-slovaci-pred-volbami-vo-velkom-vyplnaju-tikety-kolko-vam-zarobi-vitazstvo-valla-raza-ci-basku",
+        "title": "Kto ovládne kraje a mestá? Stávkové kancelárie v tom už majú jasno"
+      },
+      {
+        "url": "https://volby.sme.sk/dok/i/najblizsie-volby-slovensko",
+        "title": "Najbližšie voľby na Slovensku - Regionálne voľby 2026 - SME"
+      },
+      {
+        "url": "https://www.zmos.sk/spojene-samospravne-volby-budu-24--oktobra-2026-oznam/mid/536833/.html",
+        "title": "Spojené samosprávne voľby budú 24. októbra 2026"
+      },
+      {
+        "url": "https://www.betarena.sk/rubriky/spolocenske-stavky/komunalne-volby-slovensko-kandidati-kurzy_11593.html",
+        "title": "Komunálne voľby 2026 na Slovensku – voľba primátorov a predsedov VÚC"
+      }
+    ],
+    "source_url": null,
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "official-candidates.json",
+    "sha256": "62efc7d4c4c9eaa3032a6a692bc6c1f811b5a38a0e27196a189f7fb05351471e",
+    "status": "retrieved",
+    "urls": [],
+    "source_url": "https://www.minv.sk/?samosprava26-info10",
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "poll-nitra.json",
+    "sha256": "ce11dfec763fdc35ecf442e2f597eaf0f7f8d72afbbad97462bc6ddd2316c862",
+    "status": "retrieved",
+    "urls": [
+      {
+        "url": "https://www.aktuality.sk/clanok/vw0vYr2/kompletny-zoznam-kandidatov-na-primatora-mesta-nitra-vo-volbach-2026/",
+        "title": "Kandidáti na primátora v meste Nitra - Voľby"
+      },
+      {
+        "url": "https://www.facebook.com/tvnitricka.sk/videos/o-post-nitrianskeho-prim%C3%A1tora-sa-uch%C3%A1dzaj%C3%BA-%C5%A1tyria-kandid%C3%A1ti-ktor%C3%BD-z-nich-m%C3%A1-najv/1620764586102916/",
+        "title": "O post nitrianskeho primátora sa uchádzajú štyria kandidáti. ..."
+      },
+      {
+        "url": "https://tvnitricka.sk/predvolebne-preferencie-na-primatora-nitry/",
+        "title": "Predvolebné preferencie na primátora Nitry"
+      },
+      {
+        "url": "https://www.finreport.sk/agenturne-spravy/favoriti-nitrianskych-volieb-hattas-a-krsiak-ukazali-vysledky-prieskumov-je-medzi-nimi-vyrazny-rozdiel/",
+        "title": "Favoriti nitrianskych volieb Hattas a Kršiak ukázali výsledky ..."
+      }
+    ],
+    "source_url": null,
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "poll-presov.json",
+    "sha256": "42b480d68643fcb8f3ee838ff029b45779110b38b988e22d20a5cfbb4d5a3d52",
+    "status": "retrieved",
+    "urls": [
+      {
+        "url": "https://presovdnes.sk/spravy/predvolebny-prieskum-vox-olha-jasne-vedie-ale-presov-caka-drama-aka-tu-este-nebola",
+        "title": "Oľha jasne vedie, ale Prešov čaká dráma, aká tu ešte nebola!"
+      },
+      {
+        "url": "https://polymarket.com/event/presov-mayoral-election-winner-2026",
+        "title": "Prešov Mayoral Election Winner Predictions & Odds 2026"
+      },
+      {
+        "url": "https://www.aktuality.sk/clanok/PQR3sHF/kompletny-zoznam-kandidatov-na-primatora-mesta-presov-vo-volbach-2026/",
+        "title": "Kandidáti na primátora v meste Prešov - Voľby"
+      },
+      {
+        "url": "https://www.facebook.com/FrantisekOlhaPresov/posts/-pre%C5%A1ov-stoj%C3%AD-pred-z%C3%A1sadn%C3%BDm-rozhodnut%C3%ADm-p%C3%B4jde-o-ve%C4%BEado-volieb-zost%C3%A1va-u%C5%BE-len-p%C3%A1r/1397552999019261/",
+        "title": "🚨 PREŠOV STOJÍ PRED ZÁSADNÝM ROZHODNUTÍM. ..."
+      }
+    ],
+    "source_url": null,
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "poll-trencin.json",
+    "sha256": "aff6c91686ff12421cfe95e65c984fa9ca43ab3ecc26eb63833c50693feb3a99",
+    "status": "retrieved",
+    "urls": [
+      {
+        "url": "https://www.aktuality.sk/clanok/c1dNCOv/kompletny-zoznam-kandidatov-na-primatora-mesta-trencin-vo-volbach-2026/",
+        "title": "Kandidáti na primátora v meste Trenčín - Voľby"
+      },
+      {
+        "url": "https://spravy.stvr.sk/2026/10/volby-2026-diskusia-kandidatov-na-post-primatora-trencina/",
+        "title": "Voľby 2026: Diskusia kandidátov na post primátora Trenčína"
+      },
+      {
+        "url": "https://trencin.sk/aktuality/pozname-mena-kandidatov-a-kandidatok-na-primatorsky-post-a-do-mestskeho-zastupitelstva/",
+        "title": "Poznáme mená kandidátov a kandidátok na primátorský ..."
+      },
+      {
+        "url": "https://www.teraz.sk/regiony/m-micega-rozumiem-mestu-som-priprave/998957-clanok.html",
+        "title": "M. Mičega: Rozumiem mestu, som pripravený pracovať pre ..."
+      }
+    ],
+    "source_url": null,
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "poll-trnava.json",
+    "sha256": "36a7e1d7b8b5ed6fc7bd9880227f50b4639ebd524052134663a394c715af4c6b",
+    "status": "retrieved",
+    "urls": [
+      {
+        "url": "https://www.aktuality.sk/clanok/rFs3BxB/kompletny-zoznam-kandidatov-na-primatora-mesta-trnava-vo-volbach-2026/",
+        "title": "Kandidáti na primátora v meste Trnava - Voľby"
+      },
+      {
+        "url": "https://dennikn.sk/5633751/trnava-po-12-rokoch-meni-primatora-favoriti-su-viceprimatorka-ktora-nechce-byt-brocka-2-a-podnikatel-ktory-mu-vycita-komunikaciu/",
+        "title": "Trnava po 12 rokoch mení primátora: favoriti sú ..."
+      },
+      {
+        "url": "https://my.sme.sk/trnava/c/kandidati-na-post-primatora-trnavy-2026-kompletny-zoznam-a-profily-komunalne-volby-2026",
+        "title": "Kandidáti na post primátora Trnavy 2026 - MY Regióny"
+      },
+      {
+        "url": "https://www.facebook.com/mestskateleviziatrnava/posts/-reprezentat%C3%ADvny-prieskum-volebn%C3%BDch-preferenci%C3%AD-v-trnave-realizovala-pre-mtt-kat/1716351227163076/",
+        "title": "📊 Reprezentatívny prieskum volebných preferencií v ..."
+      }
+    ],
+    "source_url": null,
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "poll-zilina.json",
+    "sha256": "67d12131fe473b5ca51d51ff5fba1b2266fee702c5682354659d1dae68c74b6c",
+    "status": "retrieved",
+    "urls": [
+      {
+        "url": "https://www.aktuality.sk/clanok/uBDJaIF/kompletny-zoznam-kandidatov-na-primatora-mesta-zilina-vo-volbach-2026/",
+        "title": "Kandidáti na primátora v meste Žilina - Voľby"
+      },
+      {
+        "url": "https://spravy.stvr.sk/2026/10/volby-2026-kandidati-na-primatora-ziliny-diskusia/",
+        "title": "Voľby 2026: Diskusia kandidátov na post primátora Žiliny"
+      },
+      {
+        "url": "https://polymarket.com/event/zilina-mayoral-election-winner-2026",
+        "title": "Žilina Mayoral Election Winner Predictions & Odds 2026"
+      },
+      {
+        "url": "https://www.pravda.sk/spravy/regionalne-volby-2026/clanok/2053839-najviac-primatorskych-kandidatov-ma-zilina-8-co-povazuju-za-hlavny-problem-mesta-a-ako-ho-chcu-vyriesit",
+        "title": "Najviac primátorských kandidátov má Žilina"
+      }
+    ],
+    "source_url": null,
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "polls-ba-latest.json",
+    "sha256": "d2f034bb3f49882f96028d8979010f08790d64dd7b2ce03182b487098ab1f3d3",
+    "status": "retrieved",
+    "urls": [
+      {
+        "url": "https://regiony.zoznam.sk/budu-mat-bratislava-a-kosice-novych-primatorov-novy-prieskum-ukazal-pozoruhodne-cisla/",
+        "title": "Budú mať Bratislava a Košice nových primátorov? Nový ..."
+      },
+      {
+        "url": "https://www.aktuality.sk/clanok/xczK1TB/kompletny-zoznam-kandidatov-na-primatora-mesta-bratislava-vo-volbach-2026/",
+        "title": "Kandidáti na primátora v meste Bratislava - Voľby"
+      },
+      {
+        "url": "https://joj24.noviny.sk/studio-joj-24/1265064-hrich-raz-zjednotil-odporcov-valla-suboj-o-bratislavu-sa-zmeni-na-suboj-velkej-politiky",
+        "title": "Hřích: Ráž zjednotil odporcov Valla. Súboj o Bratislavu sa ..."
+      },
+      {
+        "url": "https://agenturascio.sk/prieskum-scio-vallo-profituje-z-roztriestenosti-superov-raz-zaostava/",
+        "title": "Prieskum SCIO: Vallo profituje z roztrieštenosti súperov, ..."
+      },
+      {
+        "url": "https://sita.sk/vallo-ma-pred-razom-naskok-prieskum-tiez-ukazal-akou-znamkou-by-bratislavcania-ohodnotili-jeho-doterajsiu-pracu/",
+        "title": "Vallo má pred Rážom náskok. Prieskum tiež ukázal, akou ..."
+      }
+    ],
+    "source_url": null,
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "polls-bb.json",
+    "sha256": "726298acfbddb8b0d43a9240f7b995d8d20adf087776ace1f51b7dc1e1b89a17",
+    "status": "retrieved",
+    "urls": [
+      {
+        "url": "https://www.ta3.com/clanok/1077195/prieskum-pre-ta3-suboj-o-bansku-bystricu-sa-zamotava-jeden-z-kandidatov-vyrazne-stiahol-naskok-lidra",
+        "title": "Prieskum pre ta3: Súboj o Banskú Bystricu sa zamotáva. ..."
+      },
+      {
+        "url": "https://www.pravda.sk/spravy/regionalne-volby-2026/clanok/2059943-prieskum-sanep-suboj-o-bansku-bystricu-dvaja-kandidati-na-post-primatora-su-daleko-pred-ostatnymi",
+        "title": "Prieskum SANEP - súboj o Banskú Bystricu: Dvaja ..."
+      },
+      {
+        "url": "https://www.aktuality.sk/clanok/sxfpuMa/prieskum-ukazal-ze-suboj-o-kreslo-primatora-banskej-bystrice-moze-byt-tesny-po-vyzve-na-spajanie-kandidatov-ostalo-ticho/",
+        "title": "Prieskum ukázal, že súboj o kreslo primátora Banskej ..."
+      },
+      {
+        "url": "https://bbonline.sk/prieskum-ako-pre-bbonline-sk-volby-primatora-banskej-bystrice-prinesu-tesny-suboj-jana-noska-a-diany-javorcikovej/",
+        "title": "Voľby primátora Banskej Bystrice prinesú tesný súboj Jána ..."
+      },
+      {
+        "url": "https://www.facebook.com/NIEvBB/posts/aktu%C3%A1lny-prieskum-volebn%C3%BDch-preferenci%C3%AD-na-post-prim%C3%A1tora-banskej-bystriceprim%C3%A1t/1498245942332546/",
+        "title": "AKTUÁLNY PRIESKUM VOLEBNÝCH PREFERENCIÍ NA ..."
+      }
+    ],
+    "source_url": null,
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "polls-boroughs.json",
+    "sha256": "22bfb2f92e315bb594dbd541b3c8a9addc8e74bce0d58c2ca1226fa265664908",
+    "status": "retrieved",
+    "urls": [
+      {
+        "url": "https://www.actionnews5.com/2026/08/07/mickell-lowery-declares-win-shelby-county-mayoral-race/",
+        "title": "Mickell Lowery declares win in Shelby County mayoral race"
+      },
+      {
+        "url": "https://www.facebook.com/groups/3888819801333557/posts/4547817598767104/",
+        "title": "Bratislava - Petržalka"
+      },
+      {
+        "url": "https://volby.petrzalka.sk/",
+        "title": "Voľby PETRŽALKA"
+      },
+      {
+        "url": "https://www.facebook.com/LikeNews13/videos/election-day-%EF%B8%8F-nicholas-nesta-iii-faces-off-in-the-apopka-mayoral-race-against-i/2428195800977602/",
+        "title": "ELECTION DAY  Nicholas Nesta III faces off in the Apopka ..."
+      },
+      {
+        "url": "https://www.sme.sk/bratislava/c/komunalne-zupne-volby-2026-bratislava-kto-kandiduje-primator-zupan-starostovia",
+        "title": "Komunálne a župné voľby 2026 v Bratislave: Prehľad ..."
+      },
+      {
+        "url": "https://www.localmemphis.com/article/news/politics/elections/voters-decide-who-will-run-for-shelby-county-mayor-in-august-2026-general-elections-live-results/522-c5e92c07-e0a4-43c9-a8df-db6cf7dd3858",
+        "title": "Mickell Lowery declares victory in Shelby County mayoral ..."
+      }
+    ],
+    "source_url": null,
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "polls-bratislava.json",
+    "sha256": "679993645d5cc7e09230cbf7062a3a8a3c73cbc433357a03de7ab86dc4a04782",
+    "status": "retrieved",
+    "urls": [
+      {
+        "url": "https://volby.sme.sk/pref/1/politicke-strany/p/focus/2026-05-14",
+        "title": "Najnovší prieskum agentúry Focus (14.5.2026) - Voľby SME"
+      },
+      {
+        "url": "https://tnlive.sk/domace/clanok/1038764-exkluzivny-prieskum-kto-ovladne-po-volbach-bratislavu-takto-to-vyzera-s-vallom-ci-razom",
+        "title": "Exkluzívny prieskum: Kto ovládne po voľbách Bratislavu? ..."
+      },
+      {
+        "url": "https://agenturascio.sk/prieskum-scio-vallo-profituje-z-roztriestenosti-superov-raz-zaostava/",
+        "title": "Prieskum SCIO: Vallo profituje z roztrieštenosti súperov, ..."
+      },
+      {
+        "url": "https://regiony.zoznam.sk/budu-mat-bratislava-a-kosice-novych-primatorov-novy-prieskum-ukazal-pozoruhodne-cisla/",
+        "title": "Budú mať Bratislava a Košice nových primátorov? Nový ..."
+      },
+      {
+        "url": "https://hnonline.sk/slovensko/96047444-prieskum-primatorom-bratislavy-by-sa-suverenne-stal-vallo-volby-su-len-o-dvoch-kandidatoch",
+        "title": "Primátorom Bratislavy by sa suverénne stal Vallo, voľby sú ..."
+      },
+      {
+        "url": "https://www.facebook.com/DennikPostoj/posts/mat%C3%BA%C5%A1-vallo-by-s-39-percentami-obh%C3%A1jil-post-prim%C3%A1tora-bratislavy-pred-jozefom-r%C3%A1/1635501678584270/",
+        "title": "Matúš Vallo by s 39 percentami obhájil post primátora ..."
+      }
+    ],
+    "source_url": null,
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "polls-central.json",
+    "sha256": "934aa7686fc7fec751a3dff4dc7c5ca4b8e6abc08d969d3ecfd3393457ec76c2",
+    "status": "retrieved",
+    "urls": [
+      {
+        "url": "https://dennikn.sk/minuta/tema/21757/komunalne-zupne-volby-2026",
+        "title": "Komunálne a župné voľby 2026 - Minúta po minúte, rýchle ... - Denník N"
+      },
+      {
+        "url": "https://regiony.zoznam.sk/volby-2026-na-kampane-uz-isli-miliony-kto-mina-najviac-velky-prehlad-kandidatov-na-primatorov-a-zupanov/",
+        "title": "Voľby 2026: Na kampane už išli milióny. Kto míňa najviac? Veľký ..."
+      },
+      {
+        "url": "https://www.teraz.sk/komunalne-volby-2026/branislav-becik-oznamil-kandidaturu-n/987312-clanok.html",
+        "title": "Branislav Becík oznámil kandidatúru na post šéfa Nitrianskeho kraja"
+      },
+      {
+        "url": "https://rozhodnisa.sk/kandidati",
+        "title": "Kandidáti 2026 na primátorov, starostov a predsedov krajov"
+      },
+      {
+        "url": "https://www.trend.sk/spravy/volby-2022-vacsina-primatorov-funkciu-udrzala-dvoch-krajoch-vymenili-zupanov",
+        "title": "Voľby 2022: Väčšina primátorov si funkciu udržala, v dvoch krajoch ..."
+      },
+      {
+        "url": "https://spravy.stvr.sk/volby-2022/nitra/",
+        "title": "Nitra: Kandidáti na primátora (voľby 2022) - Správy STVR"
+      }
+    ],
+    "source_url": null,
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "polls-east.json",
+    "sha256": "1d958145ad770f687f513d84706ac84ac3e00d3959fc06d6700d2fbce80a74bc",
+    "status": "retrieved",
+    "urls": [
+      {
+        "url": "https://volby.sme.sk/regionalne-volby/2026/clanky?page=7",
+        "title": "Regionálne voľby 2026, strana 7 - SME"
+      },
+      {
+        "url": "https://spravy.stvr.sk/kategoria/volby/feed/",
+        "title": "Voľby"
+      },
+      {
+        "url": "https://www.24hod.sk/spravy/kandidat-na-zupana.html",
+        "title": "Kandidát Na župana"
+      }
+    ],
+    "source_url": null,
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "polls-kosice.json",
+    "sha256": "e503b312f0deefaa8424936e815d63537ac84122ded752877697bc5453650c8a",
+    "status": "retrieved",
+    "urls": [
+      {
+        "url": "https://www.youtube.com/post/Ugkx2_J5raj_t-Q1jrERd8hz22JzCLKljfbv",
+        "title": "16. 10. 2026 o 15:41 ›Voľby | Volebný prieskum pre Košice: ..."
+      },
+      {
+        "url": "https://www.aktuality.sk/clanok/JDRGlLC/volebny-prieskom-pre-kosice-ladislav-lorinc-vedie-nasleduju-martin-mudrak-a-jaroslav-polacek/",
+        "title": "Volebný prieskum pre Košice: Ladislav Lörinc vedie ..."
+      },
+      {
+        "url": "https://dennikn.sk/minuta/5613443/",
+        "title": "Tesné môžu byť aj voľby primátora Košíc, ukazuje prieskum"
+      },
+      {
+        "url": "https://korzar.sme.sk/kosice/c/suboj-o-kosickeho-primatora-je-tesny-polacek-sa-v-novom-prieskume-dostal-pred-l-rinca",
+        "title": "Súboj o košického primátora je tesný. Polaček sa v novom ..."
+      },
+      {
+        "url": "https://www.instagram.com/p/DaVVPK0nJtv/",
+        "title": "Najnovší volebný prieskum z Košíc. ..."
+      }
+    ],
+    "source_url": null,
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "polls-presov-zilina.json",
+    "sha256": "823f6e69ea3826fe6706fc8a714ceb340f09917b5b013fa909d69a6356b16ae3",
+    "status": "retrieved",
+    "urls": [
+      {
+        "url": "https://www.aktuality.sk/clanok/PQR3sHF/kompletny-zoznam-kandidatov-na-primatora-mesta-presov-vo-volbach-2026/",
+        "title": "Kandidáti na primátora v meste Prešov - Komunálne voľby 2026"
+      },
+      {
+        "url": "https://spravy.stvr.sk/2026/10/volby-2026-kandidati-na-primatora-presova-diskusia/",
+        "title": "Voľby 2026: Kandidáti na primátora Prešova (diskusia) - Správy STVR"
+      },
+      {
+        "url": "https://www.presov.sk/zoznam-zaregistrovanych-kandidatov-pre-volby-do-mestskeho-zastupitelstva-mesta-presov-24-oktobra-2026-clanok/mid/581730/.html",
+        "title": "Spojené voľby do orgánov územnej samosprávy 24. 10. 2026 | Prešov"
+      },
+      {
+        "url": "https://korzar.sme.sk/presov/c/komunalne-volby-2026-presov-kto-kandiduje-primator",
+        "title": "Komunálne voľby 2026 v Prešove: Kto kandiduje na primátora (prehľad)"
+      },
+      {
+        "url": "https://joj24.noviny.sk/prieskumy/1272728-majersky-alebo-mazurek-prieskum-joj-24-ukazal-koho-by-volili-ludia-v-presovskom-kraji",
+        "title": "Majerský alebo Mazurek? Prieskum JOJ 24 ukázal, koho by volili ľudia v ..."
+      }
+    ],
+    "source_url": null,
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "polls-west-cities.json",
+    "sha256": "f16a583701d1f7bb46cd91b60cef747c887615e040fcd2ab79b47df5b6f371ac",
+    "status": "retrieved",
+    "urls": [
+      {
+        "url": "https://www.facebook.com/TeleviziaMarkiza/videos/prv%C3%A1-diskusia-sa-uskuto%C4%8Dn%C3%AD-u%C5%BE-zajtra-5-okt%C3%B3bra-o-1600-v-trnave-nasledova%C5%A5-bud%C3%BA-t/28111207798580010/",
+        "title": "Prvá diskusia sa uskutoční už zajtra (5. októbra) o 16:00 v ..."
+      },
+      {
+        "url": "https://www.facebook.com/TelevizneNoviny/videos/-prv%C3%A1-diskusia-sa-uskuto%C4%8Dn%C3%AD-u%C5%BE-zajtra-5-okt%C3%B3bra-o-1600-hod-v-trnave-nasledova%C5%A5-b/1744969049933821/",
+        "title": "Prvá diskusia sa uskutoční už zajtra (5. októbra) o 16:00 hod. v ..."
+      },
+      {
+        "url": "https://www.instagram.com/reel/DeD_oitDU47/?hl=en",
+        "title": "Prvá diskusia sa uskutoční už zajtra (5. októbra) o 16:00 hod. v ..."
+      },
+      {
+        "url": "https://www.sme.sk/domov/c/prieskum-politickych-stran-nms-oktober-2026",
+        "title": "Prieskum NMS: Rozostup medzi PS a Smerom sa zmenšil ..."
+      },
+      {
+        "url": "https://spravy.stvr.sk/2026/10/kandidati-na-primatora-trnava-komunalne-volby-2026/",
+        "title": "Kandidáti na primátora: Trnava (Komunálne voľby 2026)"
+      }
+    ],
+    "source_url": null,
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "presov-survey.json",
+    "sha256": "9b2eed4b99d4955abb2b5c03ad1c6fd074dc9b78b5a49f66c6a9ac06ff19b48d",
+    "status": "retrieved",
+    "urls": [],
+    "source_url": "https://presovdnes.sk/spravy/predvolebny-prieskum-vox-olha-jasne-vedie-ale-presov-caka-drama-aka-tu-este-nebola",
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "psk-ako.json",
+    "sha256": "d1d91c72ab68668d48a3d9b53d901305c94dfb5f51483ba07745d7e393af1eb9",
+    "status": "retrieved",
+    "urls": [],
+    "source_url": "https://joj24.noviny.sk/prieskumy/1272728-majersky-alebo-mazurek-prieskum-joj-24-ukazal-koho-by-volili-ludia-v-presovskom-kraji",
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "register-link-saved.json",
+    "sha256": "5bcbac1820124200db132ae10d8eee259a521ec432a82df77370350b9b7033bf",
+    "status": "retrieved",
+    "urls": [],
+    "source_url": "https://www.minv.sk/?informacie-komisia-pre-volby&sprava=zoznam-vsetkych-kandidatov-v-spojenych-samospravnych-volbach-najdu-volici-na-jednom-centralnom-mieste",
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "scio-regions.json",
+    "sha256": "1affc52fc41c1ba6b38527d6fb6cf9727e80dc1f5c2a1e61b1f5d7a920a4a874",
+    "status": "retrieved",
+    "urls": [],
+    "source_url": "https://agenturascio.sk/indikativny-prieskum-preferencii-na-volbu-predsedov-predsedniciek-samospravnych-krajov-september-2026/",
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "scio.json",
+    "sha256": "1c9d650f82b74e223d0d56b43b5c314091c41b993dfd10369044cd0debf50e41",
+    "status": "retrieved",
+    "urls": [],
+    "source_url": "https://agenturascio.sk/prieskum-scio-vallo-profituje-z-roztriestenosti-superov-raz-zaostava/",
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "trnava-survey.json",
+    "sha256": "ef867f50c4de3e33bed131949f68093719e1b2713bceeef62cbfce90269f3064",
+    "status": "retrieved",
+    "urls": [],
+    "source_url": "https://dennikn.sk/5633751/trnava-po-12-rokoch-meni-primatora-favoriti-su-viceprimatorka-ktora-nechce-byt-brocka-2-a-podnikatel-ktory-mu-vycita-komunikaciu/",
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "tt-ako.json",
+    "sha256": "016eb2564426441b516280a9c90d9f974fa0e76082d86650b4737e903c823b10",
+    "status": "retrieved",
+    "urls": [],
+    "source_url": "https://joj24.noviny.sk/prieskumy/1271485-viskupic-ma-pred-zupnymi-volbami-vyrazny-naskok-prieskum-ukazal-aj-prekvapenie-na-druhom-mieste",
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "withdrawals-regions.json",
+    "sha256": "d6dc725ca0edb0914621970a49362ba777210ce1322732cd72a9053a2dab26ce",
+    "status": "retrieved",
+    "urls": [
+      {
+        "url": "https://www.noviny.sk/slovensko/1271936-po-lassakovej-sa-aj-monika-leskova-vzdala-sa-kandidatury-na-post-predsednicky-psk",
+        "title": "Po Laššákovej sa kandidatúry na post predsedníčky PSK ..."
+      },
+      {
+        "url": "https://www.aktuality.sk/clanok/bZinH1F/kandidatka-na-predsednicku-presovskeho-kraja-leskova-sa-vzdala-zupneho-suboja-v-prospech-milana-mazureka/",
+        "title": "Kandidátka na predsedníčku Prešovského kraja Lešková ..."
+      },
+      {
+        "url": "https://www.kosiceonline.sk/judita-lassakova-odstupuje-z-boja-o-post-presovskej-zupanky",
+        "title": "Judita Laššáková odstupuje z boja o post prešovskej ..."
+      },
+      {
+        "url": "https://www.teraz.sk/regiony/lassakova-sa-vzdala-kandidatury-na/996426-clanok.html",
+        "title": "Laššáková sa vzdala kandidatúry na post predsedníčky ..."
+      },
+      {
+        "url": "https://spravy.stvr.sk/2026/10/odstupila-z-boja-judita-lassakova-sa-vzdala-kandidatury-na-post-predsednicky-presovskeho-samospravneho-kraja/",
+        "title": "Judita Laššáková sa vzdala kandidatúry na post ..."
+      }
+    ],
+    "source_url": null,
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "zsk-ako.json",
+    "sha256": "2e0cff2f54bfe8546c124d4cfb0949234470f7793b3bc0c12fbfecf945c7cd78",
+    "status": "retrieved",
+    "urls": [],
+    "source_url": "https://joj24.noviny.sk/prieskumy/1265252-volebny-prieskum-joj-24-v-zilinskom-kraji-jedno-meno-ziskalo-takmer-polovicu-volicov",
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  },
+  {
+    "file": "zsk-sanep.json",
+    "sha256": "a8646ab1cca940ac712494e346846c685a835a99ed24aade398096c710bdf5c5",
+    "status": "retrieved",
+    "urls": [],
+    "source_url": "https://www.ta3.com/clanok/1071773/prieskum-pre-ta3-o-kreslo-zupana-v-zilinskom-kraji-moze-byt-este-velka-bitka-do-hry-vstupuje-aj-treti-kandidat",
+    "note": "Full retrieved article bodies retained locally; excluded from public repository."
+  }
+]

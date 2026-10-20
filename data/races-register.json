@@ -1,0 +1,1450 @@
+[
+  {
+    "id": "city-bratislava",
+    "name": "Bratislava",
+    "category": "city",
+    "candidates": [
+      {
+        "id": "city-bratislava-1",
+        "name": "Ľubomír Geci",
+        "ballot": 1,
+        "party": "Myslovensko",
+        "job": "softvérový vývojár",
+        "active": true
+      },
+      {
+        "id": "city-bratislava-2",
+        "name": "Miroslav Heredoš",
+        "ballot": 2,
+        "party": "Vlastenecký blok",
+        "job": "podnikateľ",
+        "active": true
+      },
+      {
+        "id": "city-bratislava-3",
+        "name": "Jozef Ráž",
+        "ballot": 3,
+        "party": "Nezávislý kandidát",
+        "job": "minister",
+        "active": true
+      },
+      {
+        "id": "city-bratislava-4",
+        "name": "Zuzana Šubová",
+        "ballot": 4,
+        "party": "Pirátska strana - Slovensko",
+        "job": "ekonómka",
+        "active": true
+      },
+      {
+        "id": "city-bratislava-5",
+        "name": "Matúš Vallo",
+        "ballot": 5,
+        "party": "Team Bratislava; Progresívne Slovensko; Sloboda a solidarita; Demokrati",
+        "job": "primátor",
+        "active": true
+      },
+      {
+        "id": "city-bratislava-6",
+        "name": "Martin Winkler",
+        "ballot": 6,
+        "party": "Dunaj",
+        "job": "manažér, ekonóm",
+        "active": true
+      }
+    ],
+    "source": "mv-oso26"
+  },
+  {
+    "id": "borough-bratislava-stare-mesto",
+    "name": "Bratislava - Staré Mesto",
+    "category": "borough",
+    "candidates": [
+      {
+        "id": "borough-bratislava-stare-mesto-1",
+        "name": "Zuzana Aufrichtová",
+        "ballot": 1,
+        "party": "Krajina; Kdh - kresťanskodemokratické hnutie; Konzervatívci - kresťanská únia; Nova",
+        "job": "architektka, urbanistka",
+        "active": true
+      },
+      {
+        "id": "borough-bratislava-stare-mesto-2",
+        "name": "Petra Hitková",
+        "ballot": 2,
+        "party": "Starostovia a nezávislí kandidáti",
+        "job": "podpredsedníčka samosprávneho kraja, vysokoškolská pedagogička",
+        "active": true
+      },
+      {
+        "id": "borough-bratislava-stare-mesto-3",
+        "name": "Matej Vagač",
+        "ballot": 3,
+        "party": "Progresívne Slovensko; Team Bratislava; Sloboda a solidarita; Demokrati",
+        "job": "starosta",
+        "active": true
+      },
+      {
+        "id": "borough-bratislava-stare-mesto-4",
+        "name": "Miroslav Vetrík",
+        "ballot": 4,
+        "party": "Smer - sociálna demokracia; Hlas - sociálna demokracia; Slovenská národná strana; Život - národná strana",
+        "job": "podnikateľ",
+        "active": true
+      }
+    ],
+    "source": "mv-oso26"
+  },
+  {
+    "id": "borough-bratislava-podunajske-biskupice",
+    "name": "Bratislava - Podunajské Biskupice",
+    "category": "borough",
+    "candidates": [
+      {
+        "id": "borough-bratislava-podunajske-biskupice-1",
+        "name": "Martina Frőhlich Činovská",
+        "ballot": 1,
+        "party": "Starostovia a nezávislí kandidáti; Kdh - kresťanskodemokratické hnutie; Nova; Magyar szövetség - maďarská aliancia",
+        "job": "špecialistka komunikácie s verejnosťou",
+        "active": true
+      },
+      {
+        "id": "borough-bratislava-podunajske-biskupice-2",
+        "name": "Roman Lamoš",
+        "ballot": 2,
+        "party": "Team Bratislava; Progresívne Slovensko; Sloboda a solidarita; Demokrati",
+        "job": "starosta, stavebný inžinier",
+        "active": true
+      },
+      {
+        "id": "borough-bratislava-podunajske-biskupice-3",
+        "name": "Ladislav Méry",
+        "ballot": 3,
+        "party": "Dunaj",
+        "job": "manažér",
+        "active": true
+      }
+    ],
+    "source": "mv-oso26"
+  },
+  {
+    "id": "borough-bratislava-ruzinov",
+    "name": "Bratislava - Ružinov",
+    "category": "borough",
+    "candidates": [
+      {
+        "id": "borough-bratislava-ruzinov-1",
+        "name": "Martin Chren",
+        "ballot": 1,
+        "party": "Tím Ružinov",
+        "job": "starosta, ekonóm",
+        "active": true
+      },
+      {
+        "id": "borough-bratislava-ruzinov-2",
+        "name": "Peter Strapák",
+        "ballot": 2,
+        "party": "Nezávislý kandidát",
+        "job": "ekonóm, podnikateľ v IT, poslanec mestskej časti",
+        "active": true
+      },
+      {
+        "id": "borough-bratislava-ruzinov-3",
+        "name": "Ivor Švihran",
+        "ballot": 3,
+        "party": "Nezávislý kandidát",
+        "job": "administratívny pracovník a sprievodca cestovného ruchu",
+        "active": true
+      }
+    ],
+    "source": "mv-oso26"
+  },
+  {
+    "id": "borough-bratislava-vrakuna",
+    "name": "Bratislava - Vrakuňa",
+    "category": "borough",
+    "candidates": [
+      {
+        "id": "borough-bratislava-vrakuna-1",
+        "name": "Dušan Burdy",
+        "ballot": 1,
+        "party": "Právo na pravdu",
+        "job": "dôchodca",
+        "active": true
+      },
+      {
+        "id": "borough-bratislava-vrakuna-2",
+        "name": "Martin Kuruc",
+        "ballot": 2,
+        "party": "Team Bratislava; Progresívne Slovensko; Sloboda a solidarita; Demokrati",
+        "job": "starosta",
+        "active": true
+      },
+      {
+        "id": "borough-bratislava-vrakuna-3",
+        "name": "Katarína Lukáčová",
+        "ballot": 3,
+        "party": "Demokratická strana - občianski demokrati Slovenska",
+        "job": "ekonómka",
+        "active": true
+      }
+    ],
+    "source": "mv-oso26"
+  },
+  {
+    "id": "borough-bratislava-nove-mesto",
+    "name": "Bratislava - Nové Mesto",
+    "category": "borough",
+    "candidates": [
+      {
+        "id": "borough-bratislava-nove-mesto-1",
+        "name": "Tomáš Čajda",
+        "ballot": 1,
+        "party": "Starostovia a nezávislí kandidáti",
+        "job": "vedúci odboru obstarávania",
+        "active": true
+      },
+      {
+        "id": "borough-bratislava-nove-mesto-2",
+        "name": "Matúš Čupka",
+        "ballot": 2,
+        "party": "Team Bratislava; Progresívne Slovensko; Sloboda a solidarita; Demokrati",
+        "job": "starosta mestskej časti",
+        "active": true
+      },
+      {
+        "id": "borough-bratislava-nove-mesto-3",
+        "name": "Rudolf Kusý",
+        "ballot": 3,
+        "party": "Nezávislý kandidát",
+        "job": "odborník na rozvoj a riadenie samosprávy",
+        "active": true
+      },
+      {
+        "id": "borough-bratislava-nove-mesto-4",
+        "name": "Mária Martaus",
+        "ballot": 4,
+        "party": "Pirátska strana - Slovensko",
+        "job": "technická inžinierka",
+        "active": true
+      }
+    ],
+    "source": "mv-oso26"
+  },
+  {
+    "id": "borough-bratislava-raca",
+    "name": "Bratislava - Rača",
+    "category": "borough",
+    "candidates": [
+      {
+        "id": "borough-bratislava-raca-1",
+        "name": "Michal Drotován",
+        "ballot": 1,
+        "party": "Nezávislý kandidát",
+        "job": "starosta",
+        "active": true
+      },
+      {
+        "id": "borough-bratislava-raca-2",
+        "name": "Ján Polakovič",
+        "ballot": 2,
+        "party": "Spoločný cieľ",
+        "job": "projektový manažér, poslanec",
+        "active": true
+      }
+    ],
+    "source": "mv-oso26"
+  },
+  {
+    "id": "borough-bratislava-vajnory",
+    "name": "Bratislava - Vajnory",
+    "category": "borough",
+    "candidates": [
+      {
+        "id": "borough-bratislava-vajnory-1",
+        "name": "Juraj Ondruška",
+        "ballot": 1,
+        "party": "Nezávislý kandidát",
+        "job": "vysokoškolský učiteľ",
+        "active": true
+      },
+      {
+        "id": "borough-bratislava-vajnory-2",
+        "name": "Michal Vlček",
+        "ballot": 2,
+        "party": "Nezávislý kandidát",
+        "job": "starosta",
+        "active": true
+      },
+      {
+        "id": "borough-bratislava-vajnory-3",
+        "name": "Juraj Zeman",
+        "ballot": 3,
+        "party": "Nezávislý kandidát",
+        "job": "právnik",
+        "active": true
+      }
+    ],
+    "source": "mv-oso26"
+  },
+  {
+    "id": "borough-bratislava-devin",
+    "name": "Bratislava - Devín",
+    "category": "borough",
+    "candidates": [
+      {
+        "id": "borough-bratislava-devin-1",
+        "name": "Martin Galát",
+        "ballot": 1,
+        "party": "Nezávislý kandidát",
+        "job": "zástupca starostu",
+        "active": true
+      },
+      {
+        "id": "borough-bratislava-devin-2",
+        "name": "Pavol Maruščák",
+        "ballot": 2,
+        "party": "Nezávislý kandidát",
+        "job": "podnikateľ",
+        "active": true
+      },
+      {
+        "id": "borough-bratislava-devin-3",
+        "name": "Igor Prieložný",
+        "ballot": 3,
+        "party": "Team Bratislava; Progresívne Slovensko; Sloboda a solidarita; Demokrati",
+        "job": "remeselník a filmár",
+        "active": true
+      }
+    ],
+    "source": "mv-oso26"
+  },
+  {
+    "id": "borough-bratislava-devinska-nova-ves",
+    "name": "Bratislava - Devínska Nová Ves",
+    "category": "borough",
+    "candidates": [
+      {
+        "id": "borough-bratislava-devinska-nova-ves-1",
+        "name": "Dárius Krajčír",
+        "ballot": 1,
+        "party": "Som Slovensko - strana obcí a miest",
+        "job": "starosta",
+        "active": true
+      },
+      {
+        "id": "borough-bratislava-devinska-nova-ves-2",
+        "name": "Ľuboš Krajčír",
+        "ballot": 2,
+        "party": "Nezávislý kandidát",
+        "job": "projektový manažér",
+        "active": true
+      },
+      {
+        "id": "borough-bratislava-devinska-nova-ves-3",
+        "name": "Denis Ružovič",
+        "ballot": 3,
+        "party": "Strana vidieka",
+        "job": "nezamestnaný",
+        "active": true
+      }
+    ],
+    "source": "mv-oso26"
+  },
+  {
+    "id": "borough-bratislava-dubravka",
+    "name": "Bratislava - Dúbravka",
+    "category": "borough",
+    "candidates": [
+      {
+        "id": "borough-bratislava-dubravka-1",
+        "name": "Martin Zaťovič",
+        "ballot": 1,
+        "party": "Som Slovensko - strana obcí a miest",
+        "job": "starosta",
+        "active": true
+      }
+    ],
+    "source": "mv-oso26"
+  },
+  {
+    "id": "borough-bratislava-karlova-ves",
+    "name": "Bratislava - Karlova Ves",
+    "category": "borough",
+    "candidates": [
+      {
+        "id": "borough-bratislava-karlova-ves-1",
+        "name": "Martin Vician",
+        "ballot": 1,
+        "party": "Team Bratislava; Progresívne Slovensko; Sloboda a solidarita; Demokrati",
+        "job": "podnikateľ a inovátor v oblasti financií",
+        "active": true
+      },
+      {
+        "id": "borough-bratislava-karlova-ves-2",
+        "name": "Branislav Záhradník",
+        "ballot": 2,
+        "party": "Starostovia a nezávislí kandidáti",
+        "job": "zástupca starostky",
+        "active": true
+      }
+    ],
+    "source": "mv-oso26"
+  },
+  {
+    "id": "borough-bratislava-lamac",
+    "name": "Bratislava - Lamač",
+    "category": "borough",
+    "candidates": [
+      {
+        "id": "borough-bratislava-lamac-1",
+        "name": "Igor Polakovič",
+        "ballot": 1,
+        "party": "Team Bratislava; Progresívne Slovensko; Sloboda a solidarita; Demokrati",
+        "job": "starosta",
+        "active": true
+      },
+      {
+        "id": "borough-bratislava-lamac-2",
+        "name": "Mária Šimončičová",
+        "ballot": 2,
+        "party": "Nezávislý kandidát",
+        "job": "riaditeľka",
+        "active": true
+      }
+    ],
+    "source": "mv-oso26"
+  },
+  {
+    "id": "borough-bratislava-zahorska-bystrica",
+    "name": "Bratislava - Záhorská Bystrica",
+    "category": "borough",
+    "candidates": [
+      {
+        "id": "borough-bratislava-zahorska-bystrica-1",
+        "name": "Jozef Krúpa",
+        "ballot": 1,
+        "party": "Som Slovensko - strana obcí a miest",
+        "job": "starosta",
+        "active": true
+      }
+    ],
+    "source": "mv-oso26"
+  },
+  {
+    "id": "borough-bratislava-cunovo",
+    "name": "Bratislava - Čunovo",
+    "category": "borough",
+    "candidates": [
+      {
+        "id": "borough-bratislava-cunovo-1",
+        "name": "Ivan Boška",
+        "ballot": 1,
+        "party": "Nezávislý kandidát",
+        "job": "podnikateľ",
+        "active": true
+      },
+      {
+        "id": "borough-bratislava-cunovo-2",
+        "name": "Gabriela Ferenčáková",
+        "ballot": 2,
+        "party": "Som Slovensko - strana obcí a miest",
+        "job": "starostka",
+        "active": true
+      },
+      {
+        "id": "borough-bratislava-cunovo-3",
+        "name": "Marek Kausich",
+        "ballot": 3,
+        "party": "Nezávislý kandidát",
+        "job": "podnikateľ",
+        "active": true
+      },
+      {
+        "id": "borough-bratislava-cunovo-4",
+        "name": "Marián Krist",
+        "ballot": 4,
+        "party": "Nezávislý kandidát",
+        "job": "maklér",
+        "active": true
+      },
+      {
+        "id": "borough-bratislava-cunovo-5",
+        "name": "Michal Šimunek",
+        "ballot": 5,
+        "party": "Nezávislý kandidát",
+        "job": "policajt",
+        "active": true
+      }
+    ],
+    "source": "mv-oso26"
+  },
+  {
+    "id": "borough-bratislava-jarovce",
+    "name": "Bratislava - Jarovce",
+    "category": "borough",
+    "candidates": [
+      {
+        "id": "borough-bratislava-jarovce-1",
+        "name": "Jozef Uhler",
+        "ballot": 1,
+        "party": "Nezávislý kandidát",
+        "job": "starosta",
+        "active": true
+      }
+    ],
+    "source": "mv-oso26"
+  },
+  {
+    "id": "borough-bratislava-petrzalka",
+    "name": "Bratislava - Petržalka",
+    "category": "borough",
+    "candidates": [
+      {
+        "id": "borough-bratislava-petrzalka-1",
+        "name": "Ján Hrčka",
+        "ballot": 1,
+        "party": "Krajina",
+        "job": "IT špecialista",
+        "active": true
+      },
+      {
+        "id": "borough-bratislava-petrzalka-2",
+        "name": "Daniel Klimovský",
+        "ballot": 2,
+        "party": "Team Bratislava; Progresívne Slovensko; Sloboda a solidarita; Demokrati",
+        "job": "medzinárodný konzultant pre samosprávy, univerzitný pedagóg",
+        "active": true
+      },
+      {
+        "id": "borough-bratislava-petrzalka-3",
+        "name": "Juraj Mravec",
+        "ballot": 3,
+        "party": "Nezávislý kandidát",
+        "job": "právnik",
+        "active": true
+      }
+    ],
+    "source": "mv-oso26"
+  },
+  {
+    "id": "borough-bratislava-rusovce",
+    "name": "Bratislava - Rusovce",
+    "category": "borough",
+    "candidates": [
+      {
+        "id": "borough-bratislava-rusovce-1",
+        "name": "Radovan Jenčík",
+        "ballot": 1,
+        "party": "Nezávislý kandidát",
+        "job": "starosta",
+        "active": true
+      }
+    ],
+    "source": "mv-oso26"
+  },
+  {
+    "id": "city-trnava",
+    "name": "Trnava",
+    "category": "city",
+    "candidates": [
+      {
+        "id": "city-trnava-1",
+        "name": "Branislav Baroš",
+        "ballot": 1,
+        "party": "Trnava pre každého; Kdh - kresťanskodemokratické hnutie",
+        "job": "riaditeľ strojárskej spoločnosti",
+        "active": true
+      },
+      {
+        "id": "city-trnava-2",
+        "name": "Andrea Čajková",
+        "ballot": 2,
+        "party": "Nezávislý kandidát",
+        "job": "docentka verejnej politiky a verejnej správy, vysokoškolská pedagogička",
+        "active": true
+      },
+      {
+        "id": "city-trnava-3",
+        "name": "Ľubica Horváthová",
+        "ballot": 3,
+        "party": "Demokrati",
+        "job": "špecialistka na energetické projekty",
+        "active": true
+      },
+      {
+        "id": "city-trnava-4",
+        "name": "Eva Nemčovská",
+        "ballot": 4,
+        "party": "Nezávislý kandidát",
+        "job": "zástupkyňa primátora",
+        "active": true
+      },
+      {
+        "id": "city-trnava-5",
+        "name": "Jozef Obselka",
+        "ballot": 5,
+        "party": "Nezávislý kandidát",
+        "job": "vedúci spoločnosti",
+        "active": true
+      },
+      {
+        "id": "city-trnava-6",
+        "name": "Martin Pullmann",
+        "ballot": 6,
+        "party": "Smer - sociálna demokracia; Hlas - sociálna demokracia; Slovenská národná strana; Republika",
+        "job": "vedúci štátny zamestnanec",
+        "active": true
+      }
+    ],
+    "source": "mv-oso26"
+  },
+  {
+    "id": "city-trencin",
+    "name": "Trenčín",
+    "category": "city",
+    "candidates": [
+      {
+        "id": "city-trencin-1",
+        "name": "Danica Birošová",
+        "ballot": 1,
+        "party": "Nezávislý kandidát",
+        "job": "advokátka",
+        "active": true
+      },
+      {
+        "id": "city-trencin-2",
+        "name": "Michal Bratranec",
+        "ballot": 2,
+        "party": "Nezávislý kandidát",
+        "job": "šofér",
+        "active": true
+      },
+      {
+        "id": "city-trencin-3",
+        "name": "Ján Forgáč",
+        "ballot": 3,
+        "party": "Nezávislý kandidát",
+        "job": "zástupca primátora",
+        "active": true
+      },
+      {
+        "id": "city-trencin-4",
+        "name": "Miloš Mičega",
+        "ballot": 4,
+        "party": "Nezávislý kandidát",
+        "job": "riaditeľ regionálneho úradu",
+        "active": true
+      }
+    ],
+    "source": "mv-oso26"
+  },
+  {
+    "id": "city-nitra",
+    "name": "Nitra",
+    "category": "city",
+    "candidates": [
+      {
+        "id": "city-nitra-1",
+        "name": "Marek Hattas",
+        "ballot": 1,
+        "party": "Tím kraj Nitra - združenie kandidátov Nitrianskeho kraja; Progresívne Slovensko; Kdh - kresťanskodemokratické hnutie; Sloboda a solidarita; Demokrati; Hnutie Slovensko; Občianska konzervatívna strana",
+        "job": "primátor",
+        "active": true
+      },
+      {
+        "id": "city-nitra-2",
+        "name": "Marek Illéš",
+        "ballot": 2,
+        "party": "Smer - sociálna demokracia; Hlas - sociálna demokracia; Sme rodina",
+        "job": "generálny riaditeľ",
+        "active": true
+      },
+      {
+        "id": "city-nitra-3",
+        "name": "Igor Kršiak",
+        "ballot": 3,
+        "party": "Nezávislý kandidát",
+        "job": "právnik",
+        "active": true
+      },
+      {
+        "id": "city-nitra-4",
+        "name": "Zuzana Uhríková",
+        "ballot": 4,
+        "party": "Republika; Slovenská národná strana",
+        "job": "ekonómka",
+        "active": true
+      }
+    ],
+    "source": "mv-oso26"
+  },
+  {
+    "id": "city-zilina",
+    "name": "Žilina",
+    "category": "city",
+    "candidates": [
+      {
+        "id": "city-zilina-1",
+        "name": "Peter Cibulka",
+        "ballot": 1,
+        "party": "Nezávislý kandidát",
+        "job": "učiteľ",
+        "active": true
+      },
+      {
+        "id": "city-zilina-2",
+        "name": "Peter Fiabáne",
+        "ballot": 2,
+        "party": "Nezávislý kandidát",
+        "job": "primátor",
+        "active": true
+      },
+      {
+        "id": "city-zilina-3",
+        "name": "Rastislav Johanes",
+        "ballot": 3,
+        "party": "Nezávislý kandidát",
+        "job": "lekár, manager",
+        "active": true
+      },
+      {
+        "id": "city-zilina-4",
+        "name": "Bohumil Kostolný",
+        "ballot": 4,
+        "party": "Nezávislý kandidát",
+        "job": "predčasný dôchodca",
+        "active": true
+      },
+      {
+        "id": "city-zilina-5",
+        "name": "Anton Kozlík",
+        "ballot": 5,
+        "party": "Nezávislý kandidát",
+        "job": "riaditeľ spoločnosti",
+        "active": true
+      },
+      {
+        "id": "city-zilina-6",
+        "name": "Ivan Magát",
+        "ballot": 6,
+        "party": "Nezávislý kandidát",
+        "job": "právnik, taxikár",
+        "active": true
+      },
+      {
+        "id": "city-zilina-7",
+        "name": "Michal Milo",
+        "ballot": 7,
+        "party": "Republika",
+        "job": "účtovník",
+        "active": true
+      },
+      {
+        "id": "city-zilina-8",
+        "name": "Miroslav Sokol",
+        "ballot": 8,
+        "party": "Nezávislý kandidát",
+        "job": "elektrotechnik",
+        "active": true
+      }
+    ],
+    "source": "mv-oso26"
+  },
+  {
+    "id": "city-banska-bystrica",
+    "name": "Banská Bystrica",
+    "category": "city",
+    "candidates": [
+      {
+        "id": "city-banska-bystrica-1",
+        "name": "Diana Javorčíková",
+        "ballot": 1,
+        "party": "Progresívne Slovensko; Sloboda a solidarita; Demokrati; Hnutie Slovensko; Občianska konzervatívna strana",
+        "job": "projektová manažérka, poslankyňa",
+        "active": true
+      },
+      {
+        "id": "city-banska-bystrica-2",
+        "name": "Marian Kotleba",
+        "ballot": 2,
+        "party": "Kotlebovci - ľudová strana naše Slovensko",
+        "job": "predseda politickej strany",
+        "active": true
+      },
+      {
+        "id": "city-banska-bystrica-3",
+        "name": "Matúš Molitoris",
+        "ballot": 3,
+        "party": "Nezávislý kandidát",
+        "job": "projektový manažér",
+        "active": true
+      },
+      {
+        "id": "city-banska-bystrica-4",
+        "name": "Ján Nosko",
+        "ballot": 4,
+        "party": "Nezávislý kandidát",
+        "job": "primátor",
+        "active": true
+      },
+      {
+        "id": "city-banska-bystrica-5",
+        "name": "Tomáš Sobota",
+        "ballot": 5,
+        "party": "Nezávislý kandidát",
+        "job": "architekt - urbanista",
+        "active": true
+      },
+      {
+        "id": "city-banska-bystrica-6",
+        "name": "Ondrej Vereš",
+        "ballot": 6,
+        "party": "Strana vidieka",
+        "job": "zoraďovač",
+        "active": true
+      }
+    ],
+    "source": "mv-oso26"
+  },
+  {
+    "id": "city-presov",
+    "name": "Prešov",
+    "category": "city",
+    "candidates": [
+      {
+        "id": "city-presov-1",
+        "name": "Artúr Benes",
+        "ballot": 1,
+        "party": "Nezávislý kandidát",
+        "job": "generálny riaditeľ agentúry",
+        "active": true
+      },
+      {
+        "id": "city-presov-2",
+        "name": "Martin Eštočák",
+        "ballot": 2,
+        "party": "Nezávislý kandidát",
+        "job": "právnik, odborný autor a poradca pre občanov, školy, obce a mestá",
+        "active": true
+      },
+      {
+        "id": "city-presov-3",
+        "name": "Pavel Hagyari",
+        "ballot": 3,
+        "party": "Nezávislý kandidát",
+        "job": "právnik advokát",
+        "active": true
+      },
+      {
+        "id": "city-presov-4",
+        "name": "Rastislav Mochnacký",
+        "ballot": 4,
+        "party": "Kdh - kresťanskodemokratické hnutie; Hnutie Slovensko; Sloboda a solidarita; Konzervatívci - kresťanská únia; Za ľudí; Nova",
+        "job": "krajinný architekt",
+        "active": true
+      },
+      {
+        "id": "city-presov-5",
+        "name": "František Oľha",
+        "ballot": 5,
+        "party": "Progresívne Slovensko; Demokrati; Demokratická strana - občianski demokrati Slovenska",
+        "job": "primátor",
+        "active": true
+      },
+      {
+        "id": "city-presov-6",
+        "name": "Svetlana Pavlovičová",
+        "ballot": 6,
+        "party": "Smer - sociálna demokracia; Slovenská národná strana; Sme rodina; Bratia Slovenska",
+        "job": "odborná konzultantka pre sociálnu ekonomiku a práva detí",
+        "active": true
+      }
+    ],
+    "source": "mv-oso26"
+  },
+  {
+    "id": "city-kosice",
+    "name": "Košice",
+    "category": "city",
+    "candidates": [
+      {
+        "id": "city-kosice-1",
+        "name": "Lenka Kovačevičová",
+        "ballot": 1,
+        "party": "Tím Košice; Starostovia a nezávislí kandidáti; Právo na pravdu",
+        "job": "starostka mestskej časti",
+        "active": true
+      },
+      {
+        "id": "city-kosice-2",
+        "name": "Ladislav Lörinc",
+        "ballot": 2,
+        "party": "Košická strana",
+        "job": "starosta mestskej časti",
+        "active": true
+      },
+      {
+        "id": "city-kosice-3",
+        "name": "Ladislav Lörincz",
+        "ballot": 3,
+        "party": "Jednota Slovanov",
+        "job": "vodič",
+        "active": true
+      },
+      {
+        "id": "city-kosice-4",
+        "name": "Martin Mudrák",
+        "ballot": 4,
+        "party": "Progresívne Slovensko; Demokrati; Za ľudí",
+        "job": "manažér pre regionálne investície a samosprávu",
+        "active": true
+      },
+      {
+        "id": "city-kosice-5",
+        "name": "Jaroslav Polaček",
+        "ballot": 5,
+        "party": "Kdh - kresťanskodemokratické hnutie; Sloboda a solidarita; Magyar szövetség - maďarská aliancia; Strana rómskej koalície - srk; Nova; Demokratická strana - občianski demokrati Slovenska",
+        "job": "primátor mesta",
+        "active": true
+      },
+      {
+        "id": "city-kosice-6",
+        "name": "Alexander Riabov",
+        "ballot": 6,
+        "party": "Nezávislý kandidát",
+        "job": "právnik a ekonóm",
+        "active": true
+      },
+      {
+        "id": "city-kosice-7",
+        "name": "Miroslav Sabol",
+        "ballot": 7,
+        "party": "Nezávislý kandidát",
+        "job": "lobista, konzultant",
+        "active": true
+      },
+      {
+        "id": "city-kosice-8",
+        "name": "Alexander Székely",
+        "ballot": 8,
+        "party": "Slovenské hnutie obrody",
+        "job": "politický aktivista",
+        "active": true
+      }
+    ],
+    "source": "mv-oso26"
+  },
+  {
+    "id": "region-bratislavsky-kraj",
+    "name": "Bratislavský kraj",
+    "category": "region",
+    "candidates": [
+      {
+        "id": "region-bratislavsky-kraj-1",
+        "name": "Juraj Droba",
+        "ballot": 1,
+        "party": "Sloboda a solidarita, Progresívne Slovensko, Demokrati, Team Bratislava",
+        "job": "predseda samosprávneho kraja",
+        "active": true
+      },
+      {
+        "id": "region-bratislavsky-kraj-2",
+        "name": "Rastislav Gajarský",
+        "ballot": 2,
+        "party": "Smer - sociálna demokracia, Hlas - sociálna demokracia, Slovenská národná strana",
+        "job": "prednosta okresného úradu",
+        "active": true
+      },
+      {
+        "id": "region-bratislavsky-kraj-3",
+        "name": "Ján Chalabala",
+        "ballot": 3,
+        "party": "Komunistická strana Slovenska",
+        "job": "výsluhový dôchodca",
+        "active": true
+      },
+      {
+        "id": "region-bratislavsky-kraj-4",
+        "name": "Zuzana Krajčovičová",
+        "ballot": 4,
+        "party": "Právo na pravdu, Starostovia a nezávislí kandidáti",
+        "job": "konateľka",
+        "active": true
+      },
+      {
+        "id": "region-bratislavsky-kraj-5",
+        "name": "Ľudovít Líška",
+        "ballot": 5,
+        "party": "Jednota Slovanov",
+        "job": "podnikateľ",
+        "active": true
+      },
+      {
+        "id": "region-bratislavsky-kraj-6",
+        "name": "Peter Poláček",
+        "ballot": 6,
+        "party": "Slovexit",
+        "job": "forénzny špecialista pre prompty",
+        "active": true
+      },
+      {
+        "id": "region-bratislavsky-kraj-7",
+        "name": "Dávid Staruch",
+        "ballot": 7,
+        "party": "nezávislý kandidát",
+        "job": "odborník v oblasti IT, dátový inžinier",
+        "active": true
+      }
+    ],
+    "source": "mv-vuc26"
+  },
+  {
+    "id": "region-trnavsky-kraj",
+    "name": "Trnavský kraj",
+    "category": "region",
+    "candidates": [
+      {
+        "id": "region-trnavsky-kraj-1",
+        "name": "József Berényi",
+        "ballot": 1,
+        "party": "Magyar szövetség - maďarská aliancia",
+        "job": "podpredseda samosprávneho kraja",
+        "active": true
+      },
+      {
+        "id": "region-trnavsky-kraj-2",
+        "name": "Jaroslav Cehlárik",
+        "ballot": 2,
+        "party": "Právo na pravdu",
+        "job": "riaditeľ",
+        "active": true
+      },
+      {
+        "id": "region-trnavsky-kraj-3",
+        "name": "Róbert Dohál",
+        "ballot": 3,
+        "party": "Alternatíva pre Slovensko",
+        "job": "poľnohospodársky inžinier",
+        "active": true
+      },
+      {
+        "id": "region-trnavsky-kraj-4",
+        "name": "Peter Hambálek",
+        "ballot": 4,
+        "party": "Smer - sociálna demokracia, Hlas - sociálna demokracia, Slovenská národná strana, Republika",
+        "job": "generálny štátny radca",
+        "active": true
+      },
+      {
+        "id": "region-trnavsky-kraj-5",
+        "name": "Matej Lančarič",
+        "ballot": 5,
+        "party": "nezávislý kandidát",
+        "job": "poslanec samosprávneho kraja, projektový manažér",
+        "active": true
+      },
+      {
+        "id": "region-trnavsky-kraj-6",
+        "name": "Štefan Pollák",
+        "ballot": 6,
+        "party": "Spoločne občania Slovenska",
+        "job": "účtovník",
+        "active": true
+      },
+      {
+        "id": "region-trnavsky-kraj-7",
+        "name": "Jozef Viskupič",
+        "ballot": 7,
+        "party": "Progresívne Slovensko, Sloboda a solidarita, Kdh - kresťanskodemokratické hnutie, Demokrati, Hnutie Slovensko, Maďarské fórum, Občianska konzervatívna strana",
+        "job": "predseda samosprávneho kraja",
+        "active": true
+      }
+    ],
+    "source": "mv-vuc26"
+  },
+  {
+    "id": "region-trenciansky-kraj",
+    "name": "Trenčiansky kraj",
+    "category": "region",
+    "candidates": [
+      {
+        "id": "region-trenciansky-kraj-1",
+        "name": "Jaroslav Baška",
+        "ballot": 1,
+        "party": "Smer - sociálna demokracia, Hlas - sociálna demokracia, Republika, Slovenská národná strana",
+        "job": "predseda samosprávneho kraja",
+        "active": true
+      },
+      {
+        "id": "region-trenciansky-kraj-2",
+        "name": "Daniel Galas",
+        "ballot": 2,
+        "party": "Slovexit",
+        "job": "výsluhový dôchodca",
+        "active": true
+      },
+      {
+        "id": "region-trenciansky-kraj-3",
+        "name": "Lubomír Choleva",
+        "ballot": 3,
+        "party": "Vlastenecký blok",
+        "job": "dôchodca",
+        "active": true
+      },
+      {
+        "id": "region-trenciansky-kraj-4",
+        "name": "Natália Svítková",
+        "ballot": 4,
+        "party": "Demokrati, Hnutie Slovensko, Kdh - kresťanskodemokratické hnutie, Občianska konzervatívna strana, Progresívne Slovensko, Sloboda a solidarita",
+        "job": "manažérka partnerských vzťahov a spoluprác",
+        "active": true
+      }
+    ],
+    "source": "mv-vuc26"
+  },
+  {
+    "id": "region-nitriansky-kraj",
+    "name": "Nitriansky kraj",
+    "category": "region",
+    "candidates": [
+      {
+        "id": "region-nitriansky-kraj-1",
+        "name": "Branislav Becík",
+        "ballot": 1,
+        "party": "Hlas - sociálna demokracia, Smer - sociálna demokracia, Slovenská národná strana, Republika, Právo na pravdu, Bratia Slovenska",
+        "job": "predseda samosprávneho kraja",
+        "active": true
+      },
+      {
+        "id": "region-nitriansky-kraj-2",
+        "name": "Erik Blaško",
+        "ballot": 2,
+        "party": "Jednota Slovanov",
+        "job": "vodič",
+        "active": true
+      },
+      {
+        "id": "region-nitriansky-kraj-3",
+        "name": "Tibor Csenger",
+        "ballot": 3,
+        "party": "Magyar szövetség - maďarská aliancia",
+        "job": "podpredseda samosprávneho kraja",
+        "active": true
+      },
+      {
+        "id": "region-nitriansky-kraj-4",
+        "name": "Jolana Čuláková",
+        "ballot": 4,
+        "party": "nezávislá kandidátka",
+        "job": "redaktorka",
+        "active": true
+      },
+      {
+        "id": "region-nitriansky-kraj-5",
+        "name": "Karol Suchan",
+        "ballot": 5,
+        "party": "Slovexit",
+        "job": "podnikateľ",
+        "active": true
+      },
+      {
+        "id": "region-nitriansky-kraj-6",
+        "name": "Róbert Švec",
+        "ballot": 6,
+        "party": "Slovenské hnutie obrody",
+        "job": "politológ",
+        "active": true
+      },
+      {
+        "id": "region-nitriansky-kraj-7",
+        "name": "Henrich Varga",
+        "ballot": 7,
+        "party": "Tím kraj Nitra - združenie kandidátov Nitrianskeho kraja, Sloboda a solidarita, Progresívne Slovensko, Kdh - kresťanskodemokratické hnutie, Hnutie Slovensko, Demokrati, Maďarské fórum, Občianska konzervatívna strana",
+        "job": "poslanec samosprávneho kraja",
+        "active": true
+      }
+    ],
+    "source": "mv-vuc26"
+  },
+  {
+    "id": "region-zilinsky-kraj",
+    "name": "Žilinský kraj",
+    "category": "region",
+    "candidates": [
+      {
+        "id": "region-zilinsky-kraj-1",
+        "name": "Anna Belousovová",
+        "ballot": 1,
+        "party": "Republika",
+        "job": "viceprimátorka",
+        "active": true
+      },
+      {
+        "id": "region-zilinsky-kraj-2",
+        "name": "Jana Chlustinová",
+        "ballot": 2,
+        "party": "Slovexit",
+        "job": "invalidná dôchodkyňa",
+        "active": true
+      },
+      {
+        "id": "region-zilinsky-kraj-3",
+        "name": "Igor Choma",
+        "ballot": 3,
+        "party": "Smer - sociálna demokracia, Hlas - sociálna demokracia, Domov národná strana",
+        "job": "štátny tajomník",
+        "active": true
+      },
+      {
+        "id": "region-zilinsky-kraj-4",
+        "name": "Erika Jurinová",
+        "ballot": 4,
+        "party": "Hnutie Slovensko, Za ľudí, Nova, Progresívne Slovensko, Sloboda a solidarita, Kdh - kresťanskodemokratické hnutie, Demokrati, Konzervatívci - kresťanská únia, Občianska konzervatívna strana, Demokratická strana - občianski demokrati Slovenska",
+        "job": "predsedníčka samosprávneho kraja",
+        "active": true
+      },
+      {
+        "id": "region-zilinsky-kraj-5",
+        "name": "Martin Kapitulík",
+        "ballot": 5,
+        "party": "nezávislý kandidát",
+        "job": "riaditeľ, regionálny stratég",
+        "active": true
+      },
+      {
+        "id": "region-zilinsky-kraj-6",
+        "name": "Adam Lučanský",
+        "ballot": 6,
+        "party": "Slovenská národná strana",
+        "job": "poslanec národnej rady",
+        "active": true
+      },
+      {
+        "id": "region-zilinsky-kraj-7",
+        "name": "Milan Pova",
+        "ballot": 7,
+        "party": "Komunistická strana Slovenska",
+        "job": "dôchodca",
+        "active": true
+      }
+    ],
+    "source": "mv-vuc26"
+  },
+  {
+    "id": "region-banskobystricky-kraj",
+    "name": "Banskobystrický kraj",
+    "category": "region",
+    "candidates": [
+      {
+        "id": "region-banskobystricky-kraj-1",
+        "name": "Michal Albert",
+        "ballot": 1,
+        "party": "Bratia Slovenska",
+        "job": "moderátor",
+        "active": true
+      },
+      {
+        "id": "region-banskobystricky-kraj-2",
+        "name": "Marian Kotleba",
+        "ballot": 2,
+        "party": "Kotlebovci - ľudová strana naše Slovensko",
+        "job": "predseda politickej strany",
+        "active": true
+      },
+      {
+        "id": "region-banskobystricky-kraj-3",
+        "name": "Ondrej Lunter",
+        "ballot": 3,
+        "party": "nezávislý kandidát",
+        "job": "predseda samosprávneho kraja",
+        "active": true
+      },
+      {
+        "id": "region-banskobystricky-kraj-4",
+        "name": "Roman Malatinec",
+        "ballot": 4,
+        "party": "Strana vidieka",
+        "job": "poslanec národnej rady",
+        "active": true
+      },
+      {
+        "id": "region-banskobystricky-kraj-5",
+        "name": "Peter Plančík",
+        "ballot": 5,
+        "party": "Komunistická strana Slovenska",
+        "job": "SZČO",
+        "active": true
+      },
+      {
+        "id": "region-banskobystricky-kraj-6",
+        "name": "Jaroslav Rusina",
+        "ballot": 6,
+        "party": "nezávislý kandidát",
+        "job": "servisný špecialista",
+        "active": true
+      },
+      {
+        "id": "region-banskobystricky-kraj-7",
+        "name": "Miroslav Suja",
+        "ballot": 7,
+        "party": "Republika",
+        "job": "konateľ",
+        "active": true
+      }
+    ],
+    "source": "mv-vuc26"
+  },
+  {
+    "id": "region-presovsky-kraj",
+    "name": "Prešovský kraj",
+    "category": "region",
+    "candidates": [
+      {
+        "id": "region-presovsky-kraj-1",
+        "name": "Drahomír Čureja",
+        "ballot": 1,
+        "party": "nezávislý kandidát",
+        "job": "živnostník",
+        "active": true
+      },
+      {
+        "id": "region-presovsky-kraj-2",
+        "name": "Marián Geci",
+        "ballot": 2,
+        "party": "nezávislý kandidát",
+        "job": "finančný poradca-podnikateľ",
+        "active": true
+      },
+      {
+        "id": "region-presovsky-kraj-3",
+        "name": "Ľubomír Goliaš",
+        "ballot": 3,
+        "party": "Jednota Slovanov",
+        "job": "stavebný manažér",
+        "active": true
+      },
+      {
+        "id": "region-presovsky-kraj-4",
+        "name": "Jozef Ištok",
+        "ballot": 4,
+        "party": "nezávislý kandidát",
+        "job": "nezamestnaný",
+        "active": true
+      },
+      {
+        "id": "region-presovsky-kraj-5",
+        "name": "Zoltán Kašo",
+        "ballot": 5,
+        "party": "Tím Košice",
+        "job": "asistent učiteľa",
+        "active": true
+      },
+      {
+        "id": "region-presovsky-kraj-6",
+        "name": "Judita Laššáková",
+        "ballot": 6,
+        "party": "Smer - sociálna demokracia, Bratia Slovenska",
+        "job": "europoslankyňa",
+        "active": true
+      },
+      {
+        "id": "region-presovsky-kraj-7",
+        "name": "Monika Lešková",
+        "ballot": 7,
+        "party": "Slovenská národná strana",
+        "job": "prednostka okresného úradu",
+        "active": true
+      },
+      {
+        "id": "region-presovsky-kraj-8",
+        "name": "Milan Majerský",
+        "ballot": 8,
+        "party": "Kdh - kresťanskodemokratické hnutie, Hnutie Slovensko, Sloboda a solidarita, Za ľudí, Konzervatívci - kresťanská únia, Progresívne Slovensko",
+        "job": "predseda samosprávneho kraja",
+        "active": true
+      },
+      {
+        "id": "region-presovsky-kraj-9",
+        "name": "Milan Mazurek",
+        "ballot": 9,
+        "party": "Republika",
+        "job": "europoslanec",
+        "active": true
+      },
+      {
+        "id": "region-presovsky-kraj-10",
+        "name": "Samuel Migaľ",
+        "ballot": 10,
+        "party": "nezávislý kandidát",
+        "job": "minister",
+        "active": true
+      },
+      {
+        "id": "region-presovsky-kraj-11",
+        "name": "Ján Stanko",
+        "ballot": 11,
+        "party": "Slovexit",
+        "job": "starosta obce",
+        "active": true
+      }
+    ],
+    "source": "mv-vuc26"
+  },
+  {
+    "id": "region-kosicky-kraj",
+    "name": "Košický kraj",
+    "category": "region",
+    "candidates": [
+      {
+        "id": "region-kosicky-kraj-1",
+        "name": "Tibor Géci",
+        "ballot": 1,
+        "party": "Jednota Slovanov",
+        "job": "podnikateľ",
+        "active": true
+      },
+      {
+        "id": "region-kosicky-kraj-2",
+        "name": "Džemal Kodrazi",
+        "ballot": 2,
+        "party": "nezávislý kandidát",
+        "job": "podnikateľ, SZČO",
+        "active": true
+      },
+      {
+        "id": "region-kosicky-kraj-3",
+        "name": "Marián Porvažník",
+        "ballot": 3,
+        "party": "Progresívne Slovensko, Hnutie Slovensko, Sloboda a solidarita, Kdh - kresťanskodemokratické hnutie, Demokrati, Za ľudí, Občianska konzervatívna strana, Demokratická strana - občianski demokrati Slovenska",
+        "job": "právnik, ekonóm, podnikateľ",
+        "active": true
+      },
+      {
+        "id": "region-kosicky-kraj-4",
+        "name": "Monika Sofiya Soročinová",
+        "ballot": 4,
+        "party": "nezávislá kandidátka",
+        "job": "právnička, mediátorka, odborníčka na zahraničnú politiku a medzinárodné vzťahy",
+        "active": true
+      },
+      {
+        "id": "region-kosicky-kraj-5",
+        "name": "Igor Šimko",
+        "ballot": 5,
+        "party": "Hlas - sociálna demokracia, Smer - sociálna demokracia, Republika, Právo na pravdu, Slovenská národná strana, Strana vidieka, Starostovia a nezávislí kandidáti, Bratia Slovenska",
+        "job": "poslanec parlamentu",
+        "active": true
+      },
+      {
+        "id": "region-kosicky-kraj-6",
+        "name": "Rastislav Trnka",
+        "ballot": 6,
+        "party": "nezávislý kandidát",
+        "job": "predseda samosprávneho kraja",
+        "active": true
+      }
+    ],
+    "source": "mv-vuc26"
+  }
+]
